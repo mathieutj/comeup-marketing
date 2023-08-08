@@ -1,0 +1,2623 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="preload" as="font" crossorigin type="font/woff2" href="/built/frontend/fonts/montserrat-v25-latin-500.38a674fa.woff2">
+    <link rel="preload" as="font" crossorigin type="font/woff2" href="/built/frontend/fonts/montserrat-v25-latin-600.5d6df38d.woff2">
+
+                                
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/384x216/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(max-width: 320px) and (max-resolution: 191dpi)">
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/580x326/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(max-width: 320px) and (min-resolution: 192dpi)">
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/384x216/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(min-width: 321px) and (max-width: 375px) and (max-resolution: 191dpi)">
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/690x388/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(min-width: 321px) and (max-width: 375px) and (min-resolution: 192dpi)">
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/384x216/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(min-width: 376px) and (max-width: 414px) and (max-resolution: 191dpi)">
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/768x432/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(min-width: 376px) and (max-width: 414px) and (min-resolution: 192dpi)">
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/630x354/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(min-width: 415px) and (max-width: 767px) and (max-resolution: 191dpi)">
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/902x506/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(min-width: 415px) and (max-width: 767px) and (min-resolution: 192dpi)">
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/630x354/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(min-width: 768px) and (max-resolution: 191dpi)">
+                            <link rel="preload" href="https://thumbor.comeup.com/unsafe/fit-in/1260x708/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png" as="image" media="(min-width: 768px) and (min-resolution: 192dpi)">
+                        
+    <title>Je vais créer un plan marketing digital pour votre entreprise par tossoujoseph022</title>
+<meta name="apple-mobile-web-app-title" content="comeup.com"/>
+<meta name="application-name" content="comeup.com"/>
+<meta name="theme-color" content="#ffee66"/>
+<meta name="google-site-verification" content="H6MvbN6IrSFKIamX-oETpDAHKVsl9cWXUcSHuiiXgms"/>
+<meta property="fb:app_id" content="1173720432774744"/>
+<meta property="og:site_name" content="comeup.com"/>
+<meta property="og:type" content="website"/>
+<meta name="description" content="tossoujoseph022, vendeur sur ComeUp, vous propose ses services. tossoujoseph022 va créer un plan marketing digital pour votre entreprise"/>
+<meta property="og:title" content="Je vais créer un plan marketing digital pour votre entreprise par tossoujoseph022"/>
+<meta property="og:type" content="og:product"/>
+<meta property="og:url" content="https://comeup.com/fr/service/376726/creer-un-plan-marketing-digital-pour-votre-entreprise"/>
+<meta property="og:description" content="tossoujoseph022, vendeur sur ComeUp, vous propose ses services. tossoujoseph022 va créer un plan marketing digital pour votre entreprise"/>
+<meta property="og:image" content="https://thumbor.comeup.com/unsafe/fit-in/630x400/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"/>
+<meta property="product:price:amount" content="50.00"/>
+<meta property="product:price:currency" content="EUR"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@bycomeup"/>
+<meta name="twitter:title" content="Je vais créer un plan marketing digital pour votre entreprise par tossoujoseph022"/>
+<meta name="twitter:description" content="tossoujoseph022, vendeur sur ComeUp, vous propose ses services. tossoujoseph022 va créer un plan marketing digital pour votre entreprise"/>
+<meta name="twitter:image" content="https://thumbor.comeup.com/unsafe/fit-in/630x400/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"/>
+
+    <link rel="preconnect" href="https://cdn.onesignal.com" crossorigin>
+    <link rel="preconnect" href="https://s.ytimg.com" crossorigin>
+    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+
+    <link rel="alternate icon" type="image/png" href="/favicon.png" sizes="any">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+    <link rel="manifest" href="/manifest.json"/>
+
+    <link rel="canonical" href="https://comeup.com/fr/service/376726/creer-un-plan-marketing-digital-pour-votre-entreprise"/>
+    <script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "Organization",
+    "name": "ComeUp",
+    "url": "https://comeup.com",
+    "logo": "https://comeup.com/built/frontend/images/icon-logo-mini-214.ec679cc8.png",
+    "sameAs": [
+        "https://twitter.com/bycomeup",
+        "https://www.facebook.com/comeupdotcom"
+    ]
+}</script>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "WebSite",
+    "url": "https://comeup.com",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "query-input": "required name=search_term_string",
+        "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://comeup.com/recherche?q={search_term_string}"
+        }
+    }
+}</script>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Business",
+            "item": "https://comeup.com/fr/category/business"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Communication",
+            "item": "https://comeup.com/fr/category/communication"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stratégie marketing",
+            "item": "https://comeup.com/fr/category/strategie-marketing"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Je vais créer un plan marketing digital pour votre entreprise par tossoujoseph022",
+            "item": "https://comeup.com/fr/service/376726/creer-un-plan-marketing-digital-pour-votre-entreprise"
+        }
+    ]
+}</script>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "créer un plan marketing digital pour votre entreprise",
+    "description": "tossoujoseph022, vendeur sur ComeUp, vous propose ses services. tossoujoseph022 va créer un plan marketing digital pour votre entreprise",
+    "image": [
+        "https://thumbor.comeup.com/unsafe/fit-in/630x400/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+    ],
+    "brand": {
+        "@type": "Brand",
+        "name": "tossoujoseph022"
+    },
+    "mpn": "S376726-931553",
+    "sku": "S376726",
+    "offers": {
+        "@type": "AggregateOffer",
+        "lowPrice": "50.00",
+        "priceCurrency": "EUR",
+        "highPrice": "100.00",
+        "offerCount": 2,
+        "availability": "https://schema.org/OnlineOnly",
+        "url": "https://comeup.com/fr/service/376726/creer-un-plan-marketing-digital-pour-votre-entreprise"
+    }
+}</script>
+    
+        <link rel="stylesheet" href="/built/frontend/199.4e6508f3.css"><link rel="stylesheet" href="/built/frontend/microservice.2d516ba2.css">
+
+    <script type="962b8bf8020b271acf3cc7c0-text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-3409832-30', 'auto');
+        ga('require', 'linkid');
+        ga('require', 'displayfeatures');
+        ga('require', 'ec');
+    </script>
+
+            <script type="962b8bf8020b271acf3cc7c0-text/javascript">
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KJ79RT6');
+        </script>
+    
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-NL9SXBC" type="962b8bf8020b271acf3cc7c0-text/javascript"></script>
+</head>
+<body
+     class="page-services"    data-url-load-menu="/fr/menu"    
+>
+
+            <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJ79RT6"
+                    height="0" width="0" style="display:none;visibility:hidden">
+            </iframe>
+        </noscript>
+    
+
+
+            <aside class="topHeader" data-controller="topheader">
+                                            </aside>
+    
+    
+<header
+    role="banner"
+    class="flex-shrink-0"
+    data-controller="header"
+    data-action="click->header#onClickMenuMobile"
+>
+    <div
+        class="js-searchMobile searchMenuWrapper"
+        data-cy="searchMobile"
+        hidden
+    >
+        <div class="d-flex align-items-center gap-3">
+            <button
+                class="btn-reset btn-openMenu js-toggleSearchMobile"
+                aria-label="Fermer la recherche"
+                data-cy="header-closeSearch"
+            >
+                <img loading="lazy" src="/built/frontend/images/icon-close.svg" alt="" width="24" height="24" />
+            </button>
+            <div class="flex-grow-1">
+                <form
+    action="/fr/search"
+    method="get"
+    class="searchMenu"
+    autocomplete="off"
+    role="search"
+>
+    <input
+        type="search"
+        aria-label="Rechercher sur le site"
+        name="q"
+        placeholder="Rechercher"
+        value=""
+        data-cy="header-search"
+        class="form-control"
+    >
+    <button
+        type="submit"
+        class="btn-reset btn-search p-0"
+        aria-label="Rechercher sur le site"
+    >
+        <span class="svgContainer">
+            <svg aria-hidden="true" focusable="false" viewBox="0 0 100 100" class="svg-icon svg-icon--headerSearch">
+                <use href="/built/frontend/images/sprite.svg#svg-headerSearch"></use>
+            </svg>
+        </span>
+    </button>
+    </form>
+
+            </div>
+        </div>
+        <div class="homesearchSuggests">
+    <div class="homesearchSuggests__layout d-flex fontSize14px">
+        <span class="homesearchSuggest__title flex-shrink-0">Populaire :</span>
+        <div class="homesearchSuggests__list d-flex gap-3">
+                            <a class="btn-base btn-small btn-whiteTransparent fontSize13px d-inline-flex minWidth0 flex-shrink-0" href="/fr/search?q=tiktok">
+                    <span class="flexTextOverflowEllipsis">
+                        tiktok
+                    </span>
+                </a>
+                            <a class="btn-base btn-small btn-whiteTransparent fontSize13px d-inline-flex minWidth0 flex-shrink-0" href="/fr/search?q=shopify">
+                    <span class="flexTextOverflowEllipsis">
+                        shopify
+                    </span>
+                </a>
+                            <a class="btn-base btn-small btn-whiteTransparent fontSize13px d-inline-flex minWidth0 flex-shrink-0" href="/fr/search?q=site%20web">
+                    <span class="flexTextOverflowEllipsis">
+                        site web
+                    </span>
+                </a>
+                            <a class="btn-base btn-small btn-whiteTransparent fontSize13px d-inline-flex minWidth0 flex-shrink-0" href="/fr/search?q=voix%20off">
+                    <span class="flexTextOverflowEllipsis">
+                        voix off
+                    </span>
+                </a>
+                    </div>
+    </div>
+</div>
+
+    </div>
+    <div class="mainHeader-Mobile js-mainHeader-Mobile d-lg-none">
+        <button
+    class="btn-reset btn-openMenu js-closeMenu"
+    data-cy="header-close"
+    aria-label="Fermer le menu"
+    hidden
+>
+    <img loading="lazy" src="/built/frontend/images/icon-close.svg" alt="" width="24" height="24" />
+</button>
+
+        <div class="d-flex d-lg-none js-mainHeader-Mobile-Left">
+            <button
+    type="button"
+    class="btn-reset btn-openMenu js-openMenuMobile"
+    data-cy="open-menu-mobile"
+    aria-label="Ouvrir le menu"
+>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+</button>
+
+            <button
+    class="btn-reset js-toggleSearchMobile width36px"
+    data-cy="toggleSearchMobile"
+    aria-label="Ouvrir la recherche"
+>
+    <span class="svgContainer svgContainer--16px mx-auto">
+        <svg aria-hidden="true" focusable="false" class="svg-icon svg-icon--headerSearch maxHeight100p">
+            <use href="/built/frontend/images/sprite.svg#svg-headerSearch"></use>
+        </svg>
+    </span>
+</button>
+
+        </div>
+        <a
+            href="/"
+            aria-label="Retour à l’accueil"
+            class="mainHeader-Mobile__logo"
+        >
+            <img loading="lazy" src="/built/frontend/images/icon-logo-mini.svg" alt="" width="32" height="28" />
+        </a>
+        <div class="d-flex d-lg-none align-items-center gap-7 js-mainHeader-Mobile-Right"></div>
+    </div>
+
+    <div class="mainHeader js-mainHeader" data-cy="mainHeader">
+        <nav
+            role="navigation"
+            aria-label="principale"
+            class="navbar minWidth0 js-navbar container container--extended"
+        >
+
+            <a
+    class="logoWrapper d-none d-lg-block fontSize0"
+    href="/"
+    aria-label="ComeUp.com / Retour à l’accueil"
+>
+    <img
+        src="/built/frontend/images/icon-logo-full.svg"
+        alt=""
+        width="98"
+        height="27"
+    />
+</a>
+
+
+            <div class="mainMenu minWidth0">
+                <div class="searchMenuWrapper d-none d-lg-flex align-items-lg-center">
+                    <form
+    action="/fr/search"
+    method="get"
+    class="searchMenu"
+    autocomplete="off"
+    role="search"
+>
+    <input
+        type="search"
+        aria-label="Rechercher sur le site"
+        name="q"
+        placeholder="Rechercher"
+        value=""
+        data-cy="header-search"
+        class="form-control"
+    >
+    <button
+        type="submit"
+        class="btn-reset btn-search p-0"
+        aria-label="Rechercher sur le site"
+    >
+        <span class="svgContainer">
+            <svg aria-hidden="true" focusable="false" viewBox="0 0 100 100" class="svg-icon svg-icon--headerSearch">
+                <use href="/built/frontend/images/sprite.svg#svg-headerSearch"></use>
+            </svg>
+        </span>
+    </button>
+    </form>
+
+                </div>
+                <div
+                    class="dropdown-center"
+                    data-open-dropdown="hover"
+                >
+                    <button
+    type="button"
+    class="btn-reset link fontWeight500 d-none d-lg-inline-block"
+>
+    <span class="d-flex align-items-center text-uppercase fontWeight600">
+        <img src="/built/frontend/images/icon-list-categories.svg" alt="" width="24" height="24" class="me-2" />
+        Catégories
+    </span>
+</button>
+
+                                            
+<div class="categories mainBlock-xs js-mainMenu dropdown-menu py-0">
+    <a
+        href="/"
+        class="accordion-title d-flex d-lg-none align-items-center flex-grow-1 ps-5 ps-lg-8 fontSize18px fontWeight600 colorGrey900"
+    >
+        <img
+            loading="lazy"
+            src="/built/frontend/images/icon-home_18x18.svg"
+            alt=""
+            width="18"
+            height="18"
+            class="me-5 me-lg-8"
+        />
+        Accueil
+    </a>
+    <div class="categoriesWrapper d-flex d-lg-none position-relative">
+        <div class="accordion-title d-flex align-items-center flex-grow-1 ps-5 ps-lg-8 fontSize18px fontWeight600 colorGrey900">
+            <img
+                loading="lazy"
+                src="/built/frontend/images/icon-list-categories.svg"
+                alt=""
+                width="18"
+                height="18"
+                class="me-5 me-lg-8"
+            />
+            Catégories
+        </div>
+        <button
+            type="button"
+            class="btn-reset accordion-button d-lg-none u-expand-element flex-shrink-0"
+            aria-label="Ouvrir les catégories"
+            aria-expanded="false"
+            data-expand-target=".js-accordion-category"
+            data-cy="open-categories"></button>
+    </div>
+    <div
+        class="accordion-content ms-0 pe-0 js-accordion-category"
+        data-cy="categories-accordion"
+        aria-hidden="true"
+    >
+        <div class="accordion-content__inner">
+            <ul class="categories__inner listStyleTypeNone d-flex flex-column mb-0 ps-0">
+                                    <li
+            class="categoryWrapper"
+                    ><div class="categoryWrapper__inner d-flex"><a
+                    class="category d-flex align-items-center link fontWeight600"
+                    href="/fr/category/design-graphisme"
+                                    ><div class="categoryInner d-flex align-items-center"><img
+                                loading="lazy"
+                                src="/built/frontend/images/categories/icon-palette_black_24dp.svg"
+                                alt=""
+                                width="16"
+                                height="16"
+                                class="me-5"
+                            />
+                                                Design &amp; Graphisme
+                    </div></a><button
+                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+                    aria-expanded="false"
+                    data-expand-target=".js-accordion-category-0"
+                    aria-label="Ouvrir les sous-catégories de la catégorie Design &amp; Graphisme"
+                    data-cy="open-category-0"
+                ></button></div></li>                                    <li
+            class="categoryWrapper"
+                    ><div class="categoryWrapper__inner d-flex"><a
+                    class="category d-flex align-items-center link fontWeight600"
+                    href="/fr/category/redaction"
+                                    ><div class="categoryInner d-flex align-items-center"><img
+                                loading="lazy"
+                                src="/built/frontend/images/categories/icon-edit_note_black_24dp.svg"
+                                alt=""
+                                width="16"
+                                height="16"
+                                class="me-5"
+                            />
+                                                Rédaction
+                    </div></a><button
+                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+                    aria-expanded="false"
+                    data-expand-target=".js-accordion-category-1"
+                    aria-label="Ouvrir les sous-catégories de la catégorie Rédaction"
+                    data-cy="open-category-1"
+                ></button></div></li>                                    <li
+            class="categoryWrapper"
+                    ><div class="categoryWrapper__inner d-flex"><a
+                    class="category d-flex align-items-center link fontWeight600"
+                    href="/fr/category/audiovisuel"
+                                    ><div class="categoryInner d-flex align-items-center"><img
+                                loading="lazy"
+                                src="/built/frontend/images/categories/icon-play_circle_black_24dp.svg"
+                                alt=""
+                                width="16"
+                                height="16"
+                                class="me-5"
+                            />
+                                                Audiovisuel
+                    </div></a><button
+                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+                    aria-expanded="false"
+                    data-expand-target=".js-accordion-category-2"
+                    aria-label="Ouvrir les sous-catégories de la catégorie Audiovisuel"
+                    data-cy="open-category-2"
+                ></button></div></li>                                    <li
+            class="categoryWrapper"
+                    ><div class="categoryWrapper__inner d-flex"><a
+                    class="category d-flex align-items-center link fontWeight600"
+                    href="/fr/category/site-developpement"
+                                    ><div class="categoryInner d-flex align-items-center"><img
+                                loading="lazy"
+                                src="/built/frontend/images/categories/icon-devices_black_24dp.svg"
+                                alt=""
+                                width="16"
+                                height="16"
+                                class="me-5"
+                            />
+                                                Site &amp; Développement
+                    </div></a><button
+                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+                    aria-expanded="false"
+                    data-expand-target=".js-accordion-category-3"
+                    aria-label="Ouvrir les sous-catégories de la catégorie Site &amp; Développement"
+                    data-cy="open-category-3"
+                ></button></div></li>                                    <li
+            class="categoryWrapper"
+                    ><div class="categoryWrapper__inner d-flex"><a
+                    class="category d-flex align-items-center link fontWeight600"
+                    href="/fr/category/reseaux-sociaux"
+                                    ><div class="categoryInner d-flex align-items-center"><img
+                                loading="lazy"
+                                src="/built/frontend/images/categories/icon-people_outline_black_24dp.svg"
+                                alt=""
+                                width="16"
+                                height="16"
+                                class="me-5"
+                            />
+                                                Réseaux sociaux
+                    </div></a><button
+                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+                    aria-expanded="false"
+                    data-expand-target=".js-accordion-category-4"
+                    aria-label="Ouvrir les sous-catégories de la catégorie Réseaux sociaux"
+                    data-cy="open-category-4"
+                ></button></div></li>                                    <li
+            class="categoryWrapper"
+                    ><div class="categoryWrapper__inner d-flex"><a
+                    class="category d-flex align-items-center link fontWeight600"
+                    href="/fr/category/business"
+                                    ><div class="categoryInner d-flex align-items-center"><img
+                                loading="lazy"
+                                src="/built/frontend/images/categories/icon-store_black_24dp.svg"
+                                alt=""
+                                width="16"
+                                height="16"
+                                class="me-5"
+                            />
+                                                Business
+                    </div></a><button
+                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+                    aria-expanded="false"
+                    data-expand-target=".js-accordion-category-5"
+                    aria-label="Ouvrir les sous-catégories de la catégorie Business"
+                    data-cy="open-category-5"
+                ></button></div></li>                                    <li
+            class="categoryWrapper"
+                    ><div class="categoryWrapper__inner d-flex"><a
+                    class="category d-flex align-items-center link fontWeight600"
+                    href="/fr/category/formations-coaching"
+                                    ><div class="categoryInner d-flex align-items-center"><img
+                                loading="lazy"
+                                src="/built/frontend/images/categories/icon-record_voice_over_black_24dp.svg"
+                                alt=""
+                                width="16"
+                                height="16"
+                                class="me-5"
+                            />
+                                                Formations &amp; Coaching
+                    </div></a><button
+                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+                    aria-expanded="false"
+                    data-expand-target=".js-accordion-category-6"
+                    aria-label="Ouvrir les sous-catégories de la catégorie Formations &amp; Coaching"
+                    data-cy="open-category-6"
+                ></button></div></li>                                    <li
+            class="categoryWrapper"
+                    ><div class="categoryWrapper__inner d-flex"><a
+                    class="category d-flex align-items-center link fontWeight600"
+                    href="/fr/category/vie-quotidienne"
+                                    ><div class="categoryInner d-flex align-items-center"><img
+                                loading="lazy"
+                                src="/built/frontend/images/categories/icon-hiking_black_24dp.svg"
+                                alt=""
+                                width="16"
+                                height="16"
+                                class="me-5"
+                            />
+                                                Vie quotidienne
+                    </div></a><button
+                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+                    aria-expanded="false"
+                    data-expand-target=".js-accordion-category-7"
+                    aria-label="Ouvrir les sous-catégories de la catégorie Vie quotidienne"
+                    data-cy="open-category-7"
+                ></button></div></li>                            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+                                    </div>
+                                    <div class="mainMenu__links d-flex align-items-lg-center flex-column flex-lg-row mt-auto mt-lg-0 ms-lg-auto">
+                                                    <div class="d-flex gap-4 gap-lg-7 flex-column flex-lg-row align-items-lg-center">
+                                <div
+    class="mainBlock-xs px-0 dropdown-center d-flex d-lg-block flex-wrap"
+    data-bs-toggle="tooltip"
+    data-bs-title="Affiliation"
+    data-bs-placement="top"
+    data-bs-offset="0,3"
+    data-open-dropdown="hover"
+>
+    <a
+        href="/fr/referral"
+        class="accordion-title ps-5 ps-lg-0 d-flex align-items-center position-relative flex-grow-1"
+    >
+        <img src="/built/frontend/images/icon-affiliation.svg" alt="" width="18" height="18" />
+        <span class="d-block d-lg-none fontSize18px fontWeight600 colorGrey900 ms-5 ms-lg-8">
+            Affiliation
+        </span>
+        <span
+            class="u-dot d-none"
+             hidden        ></span>
+    </a>
+    <button
+        type="button"
+        class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+        aria-label="Ouvrir l'affiliation"
+        aria-expanded="false"
+        data-expand-target=".js-accordion-affiliation"
+        data-cy="open-affiliation"></button>
+    <div
+        class="dropdown-menu py-0 flexBasis100p"
+            >
+        <div
+            class="accordion-content position-relative js-accordion-affiliation"
+            data-cy="affiliation-accordion"
+            aria-hidden="true"
+        >
+            <div class="accordion-content__inner">
+                <a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+    href="/fr/referral"
+    >
+    <img src="/built/frontend/images/icon-dashboard.svg" alt="" width="16" height="16" class="me-5" />
+    Tableau de bord
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+    href="/fr/referral/my-referees"
+    >
+    <img src="/built/frontend/images/icon-groups_black_24dp-2.svg" alt="" width="16" height="16" class="me-5" />
+    Mes filleuls
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+    href="/fr/referral/my-account"
+    >
+    <img src="/built/frontend/images/icon-manage_accounts_black_24dp.svg" alt="" width="16" height="16" class="me-5" />
+    Mon compte affilié
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+    href="/fr/referral/my-details"
+    >
+    <img src="/built/frontend/images/icon-contact_page_black_24dp.svg" alt="" width="16" height="16" class="me-5" />
+    Mes coordonnées
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+    href="/fr/become-affiliate"
+    target="_blank"
+    >
+    <img src="/built/frontend/images/icon-connect_without_contact_black_24dp.svg" alt="" width="16" height="16" class="me-5" />
+    Programme d&#039;affiliation
+    <img loading="lazy" class="d-block d-lg-none ms-auto" src="/built/frontend/images/icon-launch-24px.svg" alt="" width="12" height="12" />
+</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div
+    class="mainBlock-xs px-0 dropdown-center d-flex d-lg-block flex-wrap"
+    data-bs-toggle="tooltip"
+    data-bs-title="Achats"
+    data-bs-placement="top"
+    data-bs-offset="0,3"
+    data-open-dropdown="hover"
+>
+    <a
+        href="/fr/purchases"
+        class="accordion-title ps-5 ps-lg-0 d-flex align-items-center position-relative flex-grow-1 js-mainMenu-customer"
+    >
+        <img src="/built/frontend/images/icon-shop.svg" alt="" width="18" height="18" />
+        <span class="d-block d-lg-none fontSize18px fontWeight600 colorGrey900 ms-5 ms-lg-8">
+            Achats
+        </span>
+        <span
+            class="u-dot d-none"
+             hidden        ></span>
+    </a>
+    <button
+        type="button"
+        class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+        aria-label="Ouvrir les achats"
+        aria-expanded="false"
+        data-expand-target=".js-accordion-purchases"
+        data-cy="open-purchases"></button>
+    <div
+        class="dropdown-menu py-0 flexBasis100p"
+            >
+        <div
+            class="accordion-content position-relative js-accordion-purchases"
+            aria-hidden="true"
+            data-cy="purchases-accordion"
+        >
+            <div class="accordion-content__inner">
+                <a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+    href="/fr/purchases"
+    >
+    <img loading="lazy" src="/built/frontend/images/icon-purchases.svg" alt="" width="16" height="16" class="me-5" />
+    Commandes
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+    href="/fr/purchases/bookmark"
+    >
+    <img loading="lazy" src="/built/frontend/images/icon-heart_black_24dp.svg" alt="" width="16" height="16" class="me-5" />
+    Favoris
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+    href="/fr/purchases/invoices"
+    >
+    <img loading="lazy" src="/built/frontend/images/icon-invoice.svg" alt="" width="16" height="16" class="me-5" />
+    Factures
+</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div
+    class="mainBlock-xs px-0 d-flex d-lg-block flex-wrap position-relative"
+    data-bs-toggle="tooltip"
+    data-bs-title="Ventes"
+    data-bs-placement="top"
+    data-bs-offset="0,3"
+    data-open-dropdown="hover"
+>
+    <a
+        href="/fr/sales"
+        class="btn-reset accordion-title ps-5 ps-lg-0 d-flex align-items-center position-relative flex-grow-1 js-mainMenu-seller"
+    >
+        <img src="/built/frontend/images/icon-sell.svg" alt="" width="18" height="18" />
+        <span class="d-block d-lg-none fontSize18px fontWeight600 colorGrey900 ms-5 ms-lg-8">
+            Ventes
+        </span>
+        <span
+            class="u-dot d-none"
+             hidden        ></span>
+    </a>
+    <button
+        type="button"
+        class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+        aria-label="Ouvrir les ventes"
+        aria-expanded="false"
+        data-expand-target=".js-accordion-sales"
+        data-cy="open-sales"></button>
+    <div class="dropdown-menu dropdown-menu-end dropdown-menu-sells py-0 flexBasis100p">
+
+                                                                
+        <div
+            class="accordion-content js-accordion-sales"
+            aria-hidden="true"
+            data-cy="sales-accordion"
+        >
+            <div class="accordion-content__inner">
+                <div class="dropdown-cols d-lg-flex flex-lg-row-reverse">
+                    <div class="dropdown-col-left">
+                        <a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/sales/stats"
+>
+    <img loading="lazy" src="/built/frontend/images/icon-dashboard.svg" alt="" width="16" height="16" class="me-5" />
+    Tableau de bord
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/sales/services"
+>
+    <img loading="lazy" src="/built/frontend/images/icon-case.svg" alt="" width="16" height="16" class="me-5" />
+    Services
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/sales"
+>
+    <img loading="lazy" src="/built/frontend/images/icon-purchases.svg" alt="" width="16" height="16" class="me-5" />
+    Commandes
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/sales/wallet"
+>
+    <img loading="lazy" src="/built/frontend/images/icon-wallet.svg" alt="" width="16" height="16" class="me-5" />
+    Portefeuille
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/sales/invoices"
+>
+    <img loading="lazy" src="/built/frontend/images/icon-invoice.svg" alt="" width="16" height="16" class="me-5" />
+    Factures
+</a>
+    <a
+        class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+                href="/fr/sales/marketing"
+    >
+        <img loading="lazy" src="/built/frontend/images/icon-trending_up_black_24px.svg" alt="" width="16" height="16" class="me-5" />
+        Marketing
+    </a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/sales/training"
+>
+    <img loading="lazy" src="/built/frontend/images/icon-school_black_24dp.svg" alt="" width="16" height="16" class="me-5" />
+    Formations
+</a>
+    <a
+        class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/coaching"
+            >
+        <img loading="lazy" src="/built/frontend/images/icon-chat_black_24dp.svg" alt="" width="16" height="16" class="me-5" />
+        Coaching
+    </a>
+
+                    </div>
+                    <div class="dropdown-col-right">
+                                                    <div class="borderTopGrey-100 d-flex align-items-stretch pe-0 w-100">
+                                <a class="d-flex align-items-center link fontWeight600 dropdown-col__title mt-0" href="/fr/settings/seller-profile">
+                                    <div class="svgContainer svgContainer--18px me-5 d-lg-none">
+                                        <svg fill="#000" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><g><path fill="none" d="M0 0h16v16H0z"/><path d="M5.546 14.5c-.335 0-.62-.116-.858-.347a1.126 1.126 0 0 1-.356-.836c0-.326.119-.605.356-.837.237-.23.523-.346.858-.346.334 0 .617.115.849.346.232.232.348.51.348.837 0 .326-.119.604-.356.836a1.165 1.165 0 0 1-.841.347Zm6.472 0c-.334 0-.62-.116-.858-.347a1.126 1.126 0 0 1-.355-.836c0-.326.118-.605.355-.837.238-.23.524-.346.858-.346.335 0 .618.115.85.346.232.232.348.51.348.837 0 .326-.12.604-.357.836a1.164 1.164 0 0 1-.84.347ZM5.141 4.182l1.392 2.856h4.563l1.586-2.856H5.14Zm-.744-1.436h9.013c.41 0 .72.174.93.521.21.347.213.705.008 1.073l-1.91 3.392c-.14.22-.32.402-.541.544a1.334 1.334 0 0 1-.737.213H6.403l-.712 1.325h7.735v1.436H5.432c-.56 0-.968-.203-1.221-.608-.254-.404-.251-.828.008-1.27l.938-1.64-2.314-4.796H1.5V1.5h2.282l.615 1.246Zm2.136 4.292h4.563-4.563Z" /></g></svg>
+
+                                    </div>
+                                    Paramètres de vente
+                                </a>
+                                <button
+                                    type="button"
+                                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0" aria-label="Ouvrir les paramètres de ventes" data-cy="open-setting-seller"></button>
+                            </div>
+                            <div
+                                class="accordion-content accordion-content--links position-relative"
+                                data-cy="setting-seller-accordion"
+                            >
+                                <div class="accordion-content__inner pb-5 pb-lg-0">
+                                    <a
+    class="d-flex align-items-center link js-link"
+        href="/fr/settings/seller-account"
+>Mon compte vendeur</a>
+<a
+    class="d-flex align-items-center link js-link"
+        href="/fr/settings/seller-profile"
+>Mon profil public</a>
+<a
+    class="d-flex align-items-center link js-link"
+        href="/fr/sales/settings/my-details"
+>Mes coordonnées</a>
+
+                                </div>
+                            </div>
+                                                <div class="borderTopGrey-100 d-flex align-items-stretch pe-0 w-100 position-relative">
+                            <div class="d-flex align-items-center link fontWeight600 w-100 dropdown-col__title">
+                                <div class="d-lg-none me-5 me-lg-8 fontSize0">
+                                    <svg viewBox="0 0 16 16" fill="#000" width="16" height="16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><g><path fill="none" d="M0 0h16v16H0z"/><path d="M1 13.5v-2.008c0-.433.11-.83.33-1.19.22-.36.52-.633.899-.819.72-.33 1.396-.574 2.031-.734a7.986 7.986 0 0 1 1.956-.24c.69 0 1.35.078 1.979.233.63.154 1.299.401 2.008.741.38.175.682.44.907.796.225.355.337.76.337 1.213V13.5H1Zm11.632 0v-2.008c0-.608-.145-1.144-.435-1.607-.29-.464-.694-.896-1.214-1.298.54.093 1.052.211 1.536.356a7.34 7.34 0 0 1 1.267.494c.37.196.665.479.884.85.22.37.33.788.33 1.251V13.5h-2.368ZM6.216 7.676c-.73 0-1.329-.242-1.798-.726-.47-.485-.705-1.103-.705-1.854 0-.752.235-1.373.705-1.862.47-.49 1.069-.734 1.798-.734.73 0 1.332.245 1.806.734.475.489.713 1.104.713 1.846 0 .762-.238 1.385-.713 1.87-.474.484-1.076.726-1.806.726Zm6.206-2.596c0 .752-.237 1.373-.712 1.862-.475.489-1.072.734-1.791.734a2.12 2.12 0 0 1-.398-.039 2.6 2.6 0 0 1-.412-.116c.27-.299.472-.654.607-1.066a4.35 4.35 0 0 0 .203-1.36 4.28 4.28 0 0 0-.203-1.351 3.264 3.264 0 0 0-.607-1.09 2.195 2.195 0 0 1 .795-.154c.73 0 1.331.247 1.806.742.475.494.712 1.107.712 1.838Zm-9.848 6.813h7.285v-.324c0-.144-.04-.28-.12-.41a.659.659 0 0 0-.3-.27c-.62-.278-1.17-.474-1.649-.587a6.849 6.849 0 0 0-1.574-.17c-.55 0-1.074.057-1.574.17a8.43 8.43 0 0 0-1.649.587.659.659 0 0 0-.3.27.764.764 0 0 0-.12.41v.324Zm3.642-5.639c.32 0 .587-.11.802-.332a1.14 1.14 0 0 0 .323-.826c0-.33-.105-.606-.315-.827a1.065 1.065 0 0 0-.81-.332c-.32 0-.587.108-.802.324-.215.217-.322.49-.322.819 0 .33.107.608.322.834.215.227.482.34.802.34Z" /></g></svg>
+
+                                </div>
+                                <div>
+                                    Communauté
+                                </div>
+                            </div>
+                            <button
+                                type="button"
+                                class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0" aria-label="Ouvrir les paramètres communautaires" data-cy="open-community"></button>
+                        </div>
+                                                                                                                            <div
+                            class="accordion-content accordion-content--links position-relative"
+                            data-cy="community-accordion"
+                        >
+                            <div class="accordion-content__inner pb-5 pb-lg-0">
+                                <a class="d-flex align-items-center link js-link" href="http://forum.comeup.com/" target="_blank">
+    <div class="d-none d-lg-flex svgContainer svgContainer--16px me-5">
+        <svg aria-hidden="true" focusable="false" fill="#000" width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M12.333.333h-10.667c-.733 0-1.327.6-1.327 1.333l-.007 12 2.667-2.667h9.333c.733 0 1.333-.6 1.333-1.333v-8c0-.733-.6-1.333-1.333-1.333zm-9.333 4.667h8v1.333h-8v-1.333zm5.333 3.333h-5.333v-1.333h5.333v1.333zm2.667-4h-8v-1.333h8v1.333z" fill-rule="nonzero" fill="inherit"/></svg>
+
+    </div>
+    Espace Vendeurs
+    <div class="svgContainer svgContainer--12px ms-auto">
+        <svg aria-hidden="true" focusable="false" fill="#ddd" width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M10.667 10.667h-9.333v-9.333h4.667v-1.333h-4.667c-.74 0-1.333.6-1.333 1.333v9.333c0 .733.593 1.333 1.333 1.333h9.333c.733 0 1.333-.6 1.333-1.333v-4.667h-1.333v4.667zm-3.333-10.667v1.333h2.393l-6.553 6.553.94.94 6.553-6.553v2.393h1.333v-4.667h-4.667z" /></svg>
+
+    </div>
+</a>
+<a class="d-flex align-items-center link js-link" href="/fr/discord" target="_blank">
+    <div class="d-none d-lg-flex svgContainer svgContainer--16px me-5">
+        <svg aria-hidden="true" fill="#000" width="14" height="16" viewBox="0 0 14 16" xmlns="http://www.w3.org/2000/svg"><g><path d="M5.552 6.712c-.456 0-.816.4-.816.888s.368.888.816.888c.456 0 .816-.4.816-.888.008-.488-.36-.888-.816-.888zm2.92 0c-.456 0-.816.4-.816.888s.368.888.816.888c.456 0 .816-.4.816-.888s-.36-.888-.816-.888z"/><path d="M12.36 0H1.64C.736 0 0 .736 0 1.648v10.816c0 .912.736 1.648 1.64 1.648h9.072l-.424-1.48 1.024.952.968.896L14 16V1.648C14 .736 13.264 0 12.36 0zM9.272 10.448s-.288-.344-.528-.648c1.048-.296 1.448-.952 1.448-.952-.328.216-.64.368-.92.472-.4.168-.784.28-1.16.344a5.604 5.604 0 0 1-2.072-.008 6.716 6.716 0 0 1-1.176-.344 4.688 4.688 0 0 1-.584-.272c-.024-.016-.048-.024-.072-.04-.016-.008-.024-.016-.032-.024-.144-.08-.224-.136-.224-.136s.384.64 1.4.944c-.24.304-.536.664-.536.664-1.768-.056-2.44-1.216-2.44-1.216 0-2.576 1.152-4.664 1.152-4.664 1.152-.864 2.248-.84 2.248-.84l.08.096c-1.44.416-2.104 1.048-2.104 1.048s.176-.096.472-.232c.856-.376 1.536-.48 1.816-.504.048-.008.088-.016.136-.016a6.521 6.521 0 0 1 4.024.752s-.632-.6-1.992-1.016l.112-.128s1.096-.024 2.248.84c0 0 1.152 2.088 1.152 4.664 0 0-.68 1.16-2.448 1.216z"/></g></svg>
+
+    </div>
+    Serveur Discord
+    <div class="svgContainer svgContainer--12px ms-auto">
+        <svg aria-hidden="true" focusable="false" fill="#ddd" width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M10.667 10.667h-9.333v-9.333h4.667v-1.333h-4.667c-.74 0-1.333.6-1.333 1.333v9.333c0 .733.593 1.333 1.333 1.333h9.333c.733 0 1.333-.6 1.333-1.333v-4.667h-1.333v4.667zm-3.333-10.667v1.333h2.393l-6.553 6.553.94.94 6.553-6.553v2.393h1.333v-4.667h-4.667z" /></svg>
+
+    </div>
+</a>
+    <a class="d-flex align-items-center link js-link" href="/fr/good-deal" target="_blank">
+        <div class="d-none d-lg-flex svgContainer svgContainer--16px me-5">
+            <svg aria-hidden="true" focusable="false" fill="#000" xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"/><path d="M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2H4c-1.1 0-2 .9-2 2v7c0 .55.22 1.05.59 1.42l9 9c.36.36.86.58 1.41.58.55 0 1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.55-.23-1.06-.59-1.42zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5 6.33 7 5.5 7zm11.77 8.27L13 19.54l-4.27-4.27C8.28 14.81 8 14.19 8 13.5c0-1.38 1.12-2.5 2.5-2.5.69 0 1.32.28 1.77.74l.73.72.73-.73c.45-.45 1.08-.73 1.77-.73 1.38 0 2.5 1.12 2.5 2.5 0 .69-.28 1.32-.73 1.77z"/></svg>
+
+        </div>
+        Bons plans
+        <div class="svgContainer svgContainer--12px ms-auto">
+            <svg aria-hidden="true" focusable="false" fill="#ddd" width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M10.667 10.667h-9.333v-9.333h4.667v-1.333h-4.667c-.74 0-1.333.6-1.333 1.333v9.333c0 .733.593 1.333 1.333 1.333h9.333c.733 0 1.333-.6 1.333-1.333v-4.667h-1.333v4.667zm-3.333-10.667v1.333h2.393l-6.553 6.553.94.94 6.553-6.553v2.393h1.333v-4.667h-4.667z" /></svg>
+
+        </div>
+    </a>
+
+                            </div>
+                        </div>
+                        <div class="borderTopGrey-100 d-flex align-items-stretch pe-0 w-100 position-relative">
+                            <div class="d-flex align-items-center link fontWeight600 dropdown-col__title">
+                                <div class="svgContainer svgContainer--18px me-5 d-lg-none">
+                                    <svg fill="#000" viewBox="0 0 55 48" width="55" height="48" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M0 39.84h55V48H0zm31.565-24c0 8.748-7.066 15.84-15.782 15.84C7.066 31.68 0 24.588 0 15.84 0 7.092 7.066 0 15.783 0v8.16c-4.227 0-7.653 3.438-7.653 7.68 0 4.242 3.426 7.68 7.653 7.68 4.225 0 7.651-3.438 7.652-7.679l8.13-.001Z"/><path d="M39.217 0C47.934 0 55 7.092 55 15.84c0 8.748-7.066 15.84-15.783 15.84-8.716 0-15.782-7.092-15.782-15.84C23.435 7.092 30.5 0 39.217 0Zm0 8.16c-4.226 0-7.652 3.438-7.652 7.68 0 4.242 3.426 7.68 7.652 7.68 4.227 0 7.653-3.438 7.653-7.68 0-4.242-3.426-7.68-7.653-7.68Z"/></svg>
+
+                                </div>
+                                <div>
+                                    ComeUp Plus
+                                </div>
+                            </div>
+                            <button
+                                type="button"
+                                class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0" aria-label="Ouvrir les paramètres ComeUp Plus" data-cy="open-subscription"></button>
+                        </div>
+                                                                                                                            <div
+                            class="accordion-content accordion-content--links position-relative"
+                            data-cy="subscription-accordion"
+                        >
+                            <div class="accordion-content__inner pb-5 pb-lg-0">
+                                <a
+    class="d-flex align-items-center link js-link"
+    href="/fr/plus"
+    >
+    Gérer mon offre
+    <div class="svgContainer svgContainer--12px ms-auto">
+        <svg aria-hidden="true" focusable="false" fill="#ddd" width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M10.667 10.667h-9.333v-9.333h4.667v-1.333h-4.667c-.74 0-1.333.6-1.333 1.333v9.333c0 .733.593 1.333 1.333 1.333h9.333c.733 0 1.333-.6 1.333-1.333v-4.667h-1.333v4.667zm-3.333-10.667v1.333h2.393l-6.553 6.553.94.94 6.553-6.553v2.393h1.333v-4.667h-4.667z" /></svg>
+
+    </div>
+</a>
+    <a
+        class="d-flex align-items-center link js-link"
+                href="/fr/plus/payment-methods"
+    >Méthode de paiement</a>
+
+                                    <p class="planBadge backgroundColorYellow400 d-none d-lg-inline-flex">
+                    <img
+                loading="lazy"
+                src="/built/frontend/images/icon-building-menu.svg"
+                alt=""
+                width="10"
+                height="10"
+            />Premium
+            </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                            </div>
+                            <button
+    type="button"
+    class="mainMenu__notifications btn-reset position-relative p-0 js-button-toggleToastersPanel js-move-into-header-mobile"
+    aria-label="Ouvrir le panel de notifications"
+    data-bs-toggle="tooltip"
+    data-bs-title="Notifications"
+    data-bs-placement="top"
+    data-bs-offset="0,3"
+    data-open-dropdown="hover"
+    data-cy="toggle-panelnotifications-header"
+>
+    <span
+        hidden
+        aria-hidden="true"
+        focusable="false"
+        class="mainMenu__notifications-counter notificationsCounter js-notifications-counter"
+        data-cy="header-counter-notifications"
+    ></span>
+    <span class="d-block fontSize0">
+        <img loading="lazy" src="/built/frontend/images/icon-notifications_black_24dp.svg" alt="" width="24" height="24" />
+    </span>
+</button>
+
+
+                            <div
+    class="mP-profil d-flex position-relative minWidth0 js-move-into-header-mobile"
+    data-open-dropdown="hover"
+            data-helpcenter-hub="https://mercure.comeup.com/.well-known/mercure"
+        data-topic="https://comeup.com/helpcenter/34559a2c-8ef9-3c99-ba39-89c1fec27179"
+        data-cy="header-profil"
+>
+    <button
+    type="button"
+    class="btn-reset mainMenu__item minWidth0 maxWidth100p ps-0 pe-0 ms-0 me-0 js-open-dropdown-parameters"
+    data-cy="open-dropdown-parameters"
+>
+                <span
+                aria-hidden="true"
+                hidden                class="mainMenu__notifications-counter notificationsCounter helpcenterCounter"
+            >0</span>
+                <img
+        class="borderRadius50p overflow-hidden flex-shrink-0 mainHeader-avatar"
+        src="https://thumbor.comeup.com/unsafe/84x84/filters:quality(90):no_upscale()/user/016b39bf-ad39-4c4a-af9d-e4e592c9d44c.jpg"
+        alt=""
+            />
+
+        
+</button>
+
+    <div
+        class="dropdown-menu dropdown-menu-end dropdown-menu-profil py-lg-0"
+                data-cy="dropdown-profil-header"
+    >
+        <div class="dropdown-menu__inner backgroundColorWhite">
+                            <a
+                    class="d-flex align-items-center link fontWeight600"
+                    href="/fr/@tossoujoseph022"
+                                    >
+                    <img loading="lazy" src="/built/frontend/images/icon-account_circle.svg" alt="" width="16" height="16" class="me-5" />
+                    Mon profil
+                </a>
+                <div class="dropdown-border d-lg-none"></div>
+                        <div class="d-flex">
+                <a
+                    class="accordion-title d-flex align-items-center link fontWeight600"
+                    href="/fr/settings/my-account"
+                                    >
+                    <img loading="lazy" src="/built/frontend/images/icon-devices_black_24dp.svg" alt="" width="16" height="16" class="me-5" />
+                    Paramètres
+                </a>
+                <button
+                    class="btn-reset accordion-button accordion-button--border d-lg-none flex-shrink-0"
+                    aria-label="Ouvrir les paramètres"
+                    aria-expanded="false"
+                    data-expand-target=".js-accordion-parameters"
+                    data-cy="open-parameters"></button>
+            </div>
+            <div
+                class="accordion-content accordion-content--links position-relative d-lg-none js-accordion-parameters"
+                aria-hidden="true"
+                data-cy="purchases-accordion"
+            >
+                <div class="accordion-content__inner">
+                    <ul class="listContent mb-0 pb-5 pb-lg-0">
+                        <a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/settings/my-account"
+>
+    Mon compte
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/settings/password"
+>
+    Mot de passe
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/settings/notifications"
+>
+    Notifications
+</a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/settings/security"
+>
+    Sécurité
+</a>
+    <a
+        class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+                href="/fr/settings/credit-card"
+    >
+        Mes cartes de paiement
+    </a>
+<a
+    class="d-flex align-items-center link borderTopGrey-100 fontWeight600"
+        href="/fr/settings/accessibility"
+>
+    Accessibilité
+</a>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="dropdown-border d-lg-none"></div>
+                            <a
+                    class="d-flex align-items-center link fontWeight600"
+                    href="/fr/settings/seller-profile"
+                                    >
+                    <img loading="lazy" src="/built/frontend/images/icon-palette_black_24dp.svg" alt="" width="16" height="16" class="me-5" />
+                    Paramètres de vente
+                </a>
+                <div class="dropdown-border d-lg-none"></div>
+                                        <div
+                    class="d-flex align-items-center link fontWeight600 justify-content-between"
+                >
+                    <a
+                        class="d-flex align-items-center colorInherit" href="/fr/sales/stats"
+                                            >
+                        <img loading="lazy" src="/built/frontend/images/icon-dashboard.svg" alt="" width="16" height="16" class="me-5" />
+                        Tableau de bord
+                    </a>
+                    <a href="/fr/sales/wallet" class="dropdown-price" data-wallet-balance="/fr/wallet-balance.json">
+                        0,00 €
+                    </a>
+                </div>
+                <div class="dropdown-border d-lg-none"></div>
+                        
+                            <a
+                    class="d-flex align-items-center link fontWeight600"
+                                        href="/fr/helpcenter"
+                >
+                    <div class="d-flex align-items-center justify-content-between w-100">
+                        <div class="d-flex align-items-center">
+                            <img loading="lazy" src="/built/frontend/images/icon-question-mark-round.svg" alt="" width="16" height="16" class="me-5" />
+                            Centre d’aide
+                        </div>
+                        <span
+                                                            hidden
+                                                        class="fontSize10px widthHeight18px lineHeight18px flex-shrink-0 helpcenterCounter notificationsCounter"
+                        >
+                            0
+                        </span>
+                    </div>
+                </a>
+                <div class="dropdown-border d-lg-none"></div>
+                        <a class="d-flex align-items-center link fontWeight600 d-flex align-items-center" href="/fr/logout">
+                <img loading="lazy" src="/built/frontend/images/icon-logout.svg" alt="" width="16" height="16" class="me-5" />
+                Déconnexion
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+                            </div>
+        </nav>
+    </div>
+    <div class="flashMessages js-flashMessages" hidden>
+    <div class="flashMessage">
+        <p></p>
+        <button type="button" class="btn-reset btn-flashMessage" hidden></button>
+    </div>
+</div>
+
+<script type="962b8bf8020b271acf3cc7c0-text/javascript">
+    window.flashMessages = [];
+</script>
+
+</header>
+
+
+
+
+<main role="main">
+        <div class="container mainContent container--extended">    <nav
+    aria-labelledby="intro-pagination"
+    class="breadcrumb-Wrapper "
+>
+   <p id="intro-pagination" class="visually-hidden">Vous êtes ici :</p>
+   <ul class="breadcrumb">
+        <li class="breadcrumb-Item d-none d-md-flex">
+            <a href="/">
+                <span class="visually-hidden">Accueil</span>
+                <div class="svgContainer svgContainer--16px">
+                    <svg fill="#000" width="14" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M5.667 11.333v-4h2.666v4h3.334V6h2L7 0 .333 6h2v5.333z"/></svg>
+
+                </div>
+            </a>
+        </li>
+                                    <li class="breadcrumb-Item d-none d-md-flex">
+                    <a href="/fr/category/business">
+                        Business
+                    </a>
+                </li>
+                            <li class="breadcrumb-Item d-none d-md-flex">
+                    <a href="/fr/category/communication">
+                        Communication
+                    </a>
+                </li>
+                            <li class="breadcrumb-Item">
+                    <a href="/fr/category/strategie-marketing">
+                        Stratégie marketing
+                    </a>
+                </li>
+                        <li class="visually-hidden" aria-current="true">
+                Je vais créer un plan marketing digital pour votre entreprise par tossoujoseph022
+            </li>
+           </ul>
+</nav>
+<div class="grid-2cols">
+        <div class="minWidth0">            <section class="grid-vertical">
+        <div class="serviceWrapper js-block-microservice minWidth0">
+            <div class="mainBlock pt-4 pt-lg-7">
+                <header class="service-header mb-4 mb-lg-7">
+    <h1 class="title-XL fontWeight700 mb-2 mb-lg-5">
+        Je vais créer un plan marketing digital pour votre entreprise
+    </h1>
+    <div class="service-header-item">
+                
+            <div class="sA-label">
+            Nouveau
+        </div>
+    
+    </div>
+    <div
+        class="service-header-item service-header-item--commandes"
+    >
+        <div class="svgContainer svgContainer--16px me-1 me-lg-3">
+            <svg aria-hidden="true" focusable="false" fill="#000" width="14" height="14" xmlns="http://www.w3.org/2000/svg"><path d="M4.667 11c-.734 0-1.327.6-1.327 1.333 0 .734.593 1.334 1.327 1.334.733 0 1.333-.6 1.333-1.334C6 11.6 5.4 11 4.667 11zM.667.333v1.334H2l2.4 5.06-.9 1.633a1.289 1.289 0 0 0-.167.64c0 .733.6 1.333 1.334 1.333h8V9h-7.72a.165.165 0 0 1-.167-.167l.02-.08.6-1.086h4.967c.5 0 .94-.274 1.166-.687l2.387-4.327a.669.669 0 0 0-.587-.987h-9.86L2.847.334H.667zM11.333 11c-.733 0-1.326.6-1.326 1.333 0 .734.593 1.334 1.326 1.334.734 0 1.334-.6 1.334-1.334 0-.733-.6-1.333-1.334-1.333z" /></svg>
+
+        </div>
+        <span class="d-none d-md-inline">
+            0 vente
+        </span>
+        <span class="d-md-none" aria-hidden="true" focusable="false">
+            0
+        </span>
+    </div>
+            <div class="service-header-item service-header-item--favoris js-header-favorite">
+            <button
+                type="button"
+                class="
+                                            js-btn-favoris
+                                        btn-reset link link--border
+                "
+                data-service-id="376726"
+                data-favorite-add-text="Ajouter aux favoris"
+                data-favorite-remove-text="Retirer des favoris"
+            >
+                <span class="d-flex align-items-center">
+                    <span
+                        class="svgContainer svgContainer--16px d-inline-flex me-1 me-lg-3"
+                        aria-hidden="true"
+                    >
+                        <svg
+                            width="20"
+                            height="20"
+                            class="svg-favoris"
+                        >
+                            <use href="/built/frontend/images/sprite.svg#icon-favorite_black_24dp"></use>
+                        </svg>
+                    </span>
+                    <span class="js-btn-favoris-label">Ajouter aux favoris</span>
+                </span>
+            </button>
+        </div>
+    </header>
+
+                                    <div
+    id="carouselService"
+    class="carousel carousel-service carousel-fade slide js-carousel"
+    data-controller="carousel-service"
+>
+    <div class="carousel-inner">
+                                                                                                    <div
+                    id="carousel-id-0"
+                                              data-src-large-image="https://thumbor.comeup.com/unsafe/fit-in/1600x1600/filters:quality(90):strip_exif():no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                          class="carousel-item item active"
+                     data-display-big-image="false"
+                     data-carousel-service-target="slide"
+                    data-cy="slide"
+                >
+                    <div class="d-flex align-items-center justify-content-center w-100 h-100">
+                                                    <picture class="d-flex align-items-center justify-content-center w-100 h-100">
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/1260x708/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(min-width: 768px) and (min-resolution: 2dppx)"
+                                >
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/630x354/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(min-width: 768px)"
+                                >
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/902x506/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(min-width: 415px) and (max-width: 767px) and (min-resolution: 2dppx)"
+                                >
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/630x354/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(min-width: 415px) and (max-width: 767px)"
+                                >
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/768x432/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(min-width: 376px) and (max-width: 414px) and (min-resolution: 2dppx)"
+                                >
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/384x216/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(min-width: 376px) and (max-width: 414px)"
+                                >
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/690x388/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(min-width: 321px) and (max-width: 375px) and (min-resolution: 2dppx)"
+                                >
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/384x216/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(min-width: 321px) and (max-width: 375px)"
+                                >
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/580x326/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(max-width: 320px) and (min-resolution: 2dppx)"
+                                >
+                                <source
+                                    srcset="https://thumbor.comeup.com/unsafe/fit-in/384x216/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                    media="(max-width: 320px)"
+                                >
+                                <img
+                                    id="zoom-id-0"
+                                    class="carousel-image-main"
+                                    alt="Je vais créer un plan marketing digital pour votre entreprise"
+                                    src="https://thumbor.comeup.com/unsafe/fit-in/1260x708/filters:quality(90):no_upscale()/uploads/media/picture/2023-07-27/service-3-plan-marketing-64c27c5f78cbd.png"
+                                                                        data-cy="image-main"
+                                />
+                            </picture>
+                                            </div>
+                </div>
+
+                        </div>
+
+    </div>
+
+    
+                                <div class="service-body">
+                    <div class="serviceDescription">
+                        <h2>VOTRE STRATÉGIE MARKETING NUMÉRIQUE PERSONNALISE💯</h2>
+<p>Êtes-vous actuellement confronté à des défis majeurs quant à la mise en place d'une stratégie digitale efficace pour votre entreprise ? Vous n'êtes pas seul !</p>
+<p>De nombreux entrepreneurs, petites entreprises, coachs et infopreneurs font face à ces mêmes problèmes. Cependant, il est essentiel de dépasser ces obstacles pour développer votre activité et accroître votre influence sur le marché.</p>
+<h3>Clarifiez votre positionnement et identifiez votre client idéal 🤓</h3>
+<p>Si vous ne savez pas précisément comment positionner votre entreprise sur le marché numérique ou si vous avez du mal à cerner votre clientèle cible, il est crucial de résoudre cette problématique en premier lieu.</p>
+<p>Une analyse approfondie de votre marché, de vos concurrents et des besoins de votre audience vous permettra de définir une stratégie de ciblage efficace.</p>
+<h3>Créez une offre irrésistible pour attirer vos prospects🤑</h3>
+<p>L'une des clés du succès dans le marketing numérique est de proposer une offre si séduisante que vos prospects ne pourront résister à l'envie de l'acheter.</p>
+<p>Pour cela, vous devrez mettre en avant les avantages uniques de vos produits ou services et communiquer de manière persuasive pour susciter leur intérêt.</p>
+<h3>Développez votre activité et devenez une référence dans votre domaine😇</h3>
+<p>Vous aspirez à décupler votre impact et à devenir une véritable star sur votre marché ? Cela nécessite une stratégie de marketing numérique bien ficelée.</p>
+<p>En renforçant votre présence en ligne, en engageant votre audience à travers du contenu pertinent et en exploitant les canaux de communication adaptés, vous pourrez bâtir votre réputation et gagner la confiance de votre communauté.</p>
+<h3>Automatisez votre processus d'acquisition client🤐</h3>
+<p>La prospection peut être une tâche laborieuse et chronophage. C'est pourquoi il est avantageux d'instaurer un système automatisé qui vous permettra d'attirer des clients potentiels sans effort.</p>
+<p>Cela peut inclure l'utilisation de campagnes d'email marketing, de publicités ciblées ou de stratégies de référencement efficaces pour générer un flux constant de prospects qualifiés.</p>
+<h3>Atteignez une liberté financière et personnelle👌</h3>
+<p>Le marketing numérique offre des opportunités uniques pour atteindre la liberté financière et personnelle.</p>
+<p>En optimisant votre stratégie, vous pourrez générer des revenus stables et diversifiés, vous permettant ainsi de réaliser vos rêves personnels, de voyager à votre guise et de pourvoir aux besoins de votre famille.</p>
+<p>➜ Je suis parfaitement conscient des défis auxquels vous êtes confrontés et prêt à vous guider pas à pas dans l'apprentissage et le perfectionnement de votre stratégie de marketing numérique.</p>
+<p>Grâce à une approche professionnelle et personnalisée, je vous aiderais à atteindre vos objectifs et à prospérer sur le marché numérique en pleine croissance.💫</p>
+<h2>Qu'est-ce que vous m'offrez de si unique ?🥳</h2>
+<p>Il s'agit d'un échange à travers lequel je vous expliquerais tout ce qu'il y a à savoir sur votre business pour réussir en ligne + un plan détaillé sur la mailleure stratégie marketing digital actuelle pour votre activité.</p>
+<p>Je serais de même disposer à répondre à toutes vos questions à travers un <strong>appel audio Comeup pour le pack de base et le pack standard</strong> que vous verrez plus en détails ci-dessous.</p>
+<p>Quant au <strong>pack premium</strong>, il est question d'un <strong>appel vidéo Comeup</strong> au cours de laquelle vous aurez en plus des explications détaillées, quelques astuces et outils qui vont accélerer votre processus de croissance, sans oublier une mise en direction avec des exemples concrets.</p>
+<p>Moins d'une heure après la fin de notre échange, je vous enverrais un résumé de notre discussion sous forme de fichier PDF dans lequel sera structuré des plans d'actions spécialisés à votre business que vous pourrez mettre en pratique automatiquement.</p>
+<p><strong>Veuillez bien respecter les consignes pour éviter une perte de temps en début de notre échange.</strong></p>
+<p><strong>A noter</strong> : ☎️ Notre appel téléphonique s'effectuera juste après un petit échange écrire au cours duquel vous allez me founir des informations supplémaintaires selon votre domaine d'activité.</p>
+<h2>Quelques avantages d'établir un plan marketing digital ?🤳</h2>
+<p>Il y a de nombreux avantages à établir un plan marketing digital avant de lancer une activité en ligne. Voici quelques-uns des plus importants :</p>
+<ul>
+<li>
+<strong>Réaliser des économies d'argent</strong>. Un plan marketing digital vous aidera à mieux cibler vos efforts, ce qui vous permettra d'économiser de l'argent sur vos dépenses publicitaires.</li>
+<li>
+<strong>Augmenter votre visibilité</strong>. Un plan marketing digital vous permettra d'atteindre un public plus large et de générer plus de trafic sur votre site Web.</li>
+<li>
+<strong>Améliorer votre image de marque</strong>. Un plan marketing digital vous permettra de créer une image de marque forte et cohérente sur tous les canaux numériques.</li>
+<li>
+<strong>Générer plus de leads</strong>. Un plan marketing digital vous aidera à générer plus de leads qualifiés, qui sont des prospects intéressés par vos produits ou services.</li>
+<li>
+<strong>Augmenter vos ventes</strong>. Un plan marketing digital vous aidera à augmenter vos ventes en attirant de nouveaux clients et en fidélisant vos clients existants.</li>
+</ul>
+<p>Si vous souhaitez lancer une activité en ligne, il est donc important d'établir un plan marketing digital. Cela vous permettra de maximiser vos chances de succès.</p>
+<h2>Voici mes quatre (04) processus à respecter pour établir un plan marketing digital : 🎲</h2>
+<ol>
+<li>
+<h3>Définir vos objectifs (SMART/KPIs)</h3>
+</li>
+</ol>
+<p>La première étape consiste à définir clairement vos objectifs marketing. Qu'est-ce que vous souhaitez accomplir avec votre stratégie marketing numérique ? Voulez-vous augmenter les ventes, générer des leads, améliorer votre image de marque ou autre ? Une fois que vous avez défini vos objectifs, vous pouvez commencer à développer une stratégie pour les atteindre.</p>
+<ol start="2">
+<li>
+<h3>Identifiez votre public cible.</h3>
+</li>
+</ol>
+<p>À qui s'adresse votre activité en ligne ? Quels sont leurs besoins et leurs intérêts ?</p>
+<ol start="3">
+<li>
+<h3>Choisir les bons canaux</h3>
+</li>
+</ol>
+<p>Il existe de nombreux canaux de marketing numérique différents, tels que les moteurs de recherche, les réseaux sociaux, les e-mails, les publicités payantes, etc. Il est important de choisir les canaux qui sont les plus adaptés à votre public cible et à vos objectifs. Par exemple, si vous souhaitez atteindre un public large, les réseaux sociaux peuvent être un bon choix. Si vous souhaitez générer des leads qualifiés, l'email marketing peut être une meilleure option.</p>
+<ol start="4">
+<li>
+<h3>Mise en exergue du plan d’action</h3>
+</li>
+</ol>
+<p>Il sera question de lister les indispensables à mettre en place pour l’atteinte des objectifs fixés. C’est une étape primordiale et le plus important dans la mise en place d’une stratégie de marketing digital.</p>
+<ol start="5">
+<li>
+<h3>Créer un contenu de qualité</h3>
+</li>
+</ol>
+<p>Le contenu est au cœur de toute stratégie marketing numérique réussie. Il doit être pertinent, informatif et engageant. Il doit également être optimisé pour les moteurs de recherche afin que vous puissiez apparaître dans les résultats de recherche lorsque les gens recherchent des informations sur vos produits ou services.</p>
+<p>En suivant ces trois processus, vous pouvez créer un plan marketing digital de haut niveau qui vous aidera à atteindre vos objectifs.</p>
+<h3>Voici quelques conseils supplémentaires : 🎫</h3>
+<ul>
+<li>
+<h3>Suivez les tendances</h3>
+</li>
+</ul>
+<p>Le monde du marketing numérique évolue constamment, il est donc important de suivre les dernières tendances. Cela vous permettra de vous assurer que votre stratégie est efficace et qu'elle atteint vos objectifs.</p>
+<ul>
+<li>
+<h3>Testez et ajustez</h3>
+</li>
+</ul>
+<p>Il est important de tester différentes stratégies et tactiques marketing pour voir ce qui fonctionne le mieux pour votre entreprise. N'ayez pas peur d'ajuster votre stratégie au fur et à mesure que vous en apprenez davantage.</p>
+<ul>
+<li>
+<h3>Mesurez les résultats</h3>
+</li>
+</ul>
+<p>Il est important de mesurer les résultats de votre stratégie marketing numérique afin de voir ce qui fonctionne et ce qui ne fonctionne pas. Cela vous permettra d'ajuster votre stratégie au besoin et d'optimiser vos résultats.</p>
+<p>Mieux nous travaillerons ensemble, plus vous comprendrez les différentes étapes du processus…</p>
+<h3>✨PACK DE BASE✨</h3>
+<p>Prix : <strong>50€</strong></p>
+<p>👉 Analyse de votre business et vos objectifs afin de vous proposer un plan marketing bien huilé et personnalisé. Vous aurez droit à 15 minutes d’échange riche avec des explications détaillées, uniquement après avoir pris connaissance des informations indispensables pour l’élaboration du plan marketing. Suite à cela vous je vous enverrais votre plan marketing digital bien structuré sous forme pdf.</p>
+<h3>✨PACK ADVANCED✨</h3>
+<p>👉 Je vous propose un coaching personnalisé d'une durée de 30 minutes, spécialement conçu pour vous fournir toutes les informations essentielles nécessaires au développement de la stratégie marketing digitale de votre entreprise. Grâce à ce coaching, vous pourrez obtenir les résultats et les performances désirés.</p>
+<div class="table-responsive"><table>
+<thead>
+<tr>
+<th><strong>PACK ADVANCED</strong></th>
+<th><strong>+50€</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>✅</td>
+<td>30 minutes de coaching</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Analyse de votre business</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Analyse de vos offres</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Plan d'action stratégique</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Réponses à toutes vos questions</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+<p>⛔ Livraison : La commande démarre dès que je vous réponds</p>
+<p>⚠️ Si vous avez la moindre question, n'hésitez pas à me contacter en privé.</p>
+<hr />
+<h3>⚡PACK PREMIUM⚡</h3>
+<p>👉 Je vous propose un coaching personnalisé d'une heure, spécialement conçu pour vous apporter toutes les informations nécessaires liées au développement de la stratégie marketing digitale de votre nouvelle entreprise ou concernant un métier du digital, dans le but d'obtenir des résultats.</p>
+<div class="table-responsive"><table>
+<thead>
+<tr>
+<th><strong>PACK PREMIUM</strong></th>
+<th><strong>PRIX : +100€</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>✅</td>
+<td>1H de coaching</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Possibilité d'étaler en 30 minutes X2</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Suivi hebdomadaire inclus durant un 01 mois</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Analyse de votre business</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Analyse de vos offres</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Plan d'action stratégique</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>Réponses à toutes vos questions</td>
+</tr>
+<tr>
+<td>✅</td>
+<td>+ des astuces secrètes pour vite sacaler</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+<p>Avant le coaching, vous aurez accès à un questionnaire complet visant à analyser votre situation. ⚠️</p>
+<p>Vous ressortirez avec une feuille de route, un résumé du coaching sous format Pdf</p>
+<p><strong>Transformez votre entreprise pour réaliser vos rêves et ceux de vos clients grâce au monde digital !</strong></p>
+<p>➡️ Cet accompagnement est fait pour vous si :</p>
+<p>- Vous éprouvez des difficultés à clarifier votre positionnement et à définir précisément votre client idéal.</p>
+<p>- Vous aspirez à créer une offre si irrésistible que vos prospects seront impatients de l'acheter.</p>
+<p>- Vous souhaitez développer votre entreprise, augmenter considérablement votre impact et devenir une référence dans votre secteur.</p>
+<p>- Vous désirez gagner en visibilité, vous faire connaître et être reconnu sur votre marché.</p>
+<p>- Vous souhaitez mettre en place un système automatisé pour attirer des clients sans avoir à prospecter activement.</p>
+<p>- Vous rêvez d'atteindre une liberté financière, de pouvoir voyager à votre guise et d'offrir à votre famille tout ce dont elle a toujours rêvé.</p>
+<h3>✅ N’HÉSITEZ PAS À ME CONTACTER POUR PLUS D’INFORMATIONS</h3>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="mainBlock pb-4 pb-lg-7 js-options-microservices"
+                 id="scroll-to-376726"
+                 data-controller="options"
+                 data-options-subunit-value="2"
+                 data-options-currency-value="EUR"
+            >
+                <div class="mainBlock-Header mb-0">
+                    <h2 class="mainBlock-Title">
+                        Personnaliser ce service
+                    </h2>
+                </div>
+                
+    <form
+                    action="/fr/quote/new"
+                method="post"
+        data-cy="form"
+        data-action="change->options#onChangeForm"
+    >
+        <ul class="tableOptions tableOptions--service">
+            <li class="tableOptions-Item">
+                <input
+                    id="checkbox-base-microservice"
+                    type="checkbox"
+                    class="form-check-input"
+                    checked
+                    data-value="5000"
+                    data-delay="1"
+                    disabled
+                    data-options-target="input"
+                />
+                <label
+                    for="checkbox-base-microservice"
+                    class="tableOption-label fontSizeInherit cursorText"
+                >
+                                            Je vais créer un plan marketing digital pour votre entreprise <span
+                        class="visually-hidden">pour 50,00 €</span>
+                                        <span class="extra-delay d-block">1 jour de réalisation</span>
+                </label>
+                <div class="extra-price fontSize18px" aria-hidden="true" focusable="false">
+                    50,00 €
+                </div>
+            </li>
+        </ul>
+
+                    <div class="extras overflow-hidden">
+                <h2 class="title-L mb-5 mb-lg-8">Options supplémentaires</h2>
+                <ul
+                    class="tableOptions m-0"
+                    data-cy="table-options"
+                >
+                                                                        <li class="tableOptions-Item">
+                                    <input type="checkbox" id="cart_extras_1252254" name="cart[extras][]" data-value="5000" data-currency="EUR" data-delay="1" data-is-advised="data-is-advised" data-options-target="input" data-cy="tableOption-checkbox" disabled="disabled" class="form-check-input" value="1252254" />
+                                                                <div class="tableOption-label">
+                                                                            <div
+                                                                                            class="d-flex align-items-start"
+                                                                                    >
+                                            <p>
+                                                PACK STANDARD
+                                                <span class="visually-hidden">
+                                                + 5 000,00 €
+                                            </span>
+                                            </p>
+                                                                                            <div class="sA-label ms-1">Recommandé</div>
+                                                                                    </div>
+                                        <p class="extra-delay">
+                                            Délai supplémentaire de 1 jour
+                                        </p>
+                                                                        </div>
+                                                            <div class="extra-price fontSize14px" aria-hidden="true" focusable="false">
+                                    + 50,00 €
+                                </div>
+                            </li>
+                                                    <li class="tableOptions-Item">
+                                    <input type="checkbox" id="cart_extras_1252255" name="cart[extras][]" data-value="10000" data-currency="EUR" data-delay="1"  data-options-target="input" data-cy="tableOption-checkbox" disabled="disabled" class="form-check-input" value="1252255" />
+                                                                <div class="tableOption-label">
+                                                                            <div
+                                                                                    >
+                                            <p>
+                                                PACK PRENIUM
+                                                <span class="visually-hidden">
+                                                + 10 000,00 €
+                                            </span>
+                                            </p>
+                                                                                    </div>
+                                        <p class="extra-delay">
+                                            Délai supplémentaire de 1 jour
+                                        </p>
+                                                                        </div>
+                                                            <div class="extra-price fontSize14px" aria-hidden="true" focusable="false">
+                                    + 100,00 €
+                                </div>
+                            </li>
+                                                                                        <li class="tableOptions-Item">
+                            <input
+                                id="checkbox-delivery-express"
+                                type="checkbox"
+                                disabled
+                                class="opacity-0 form-check-input"
+                            />
+                            <label
+                                for="checkbox-delivery-express"
+                                class="tableOption-label cursorText"
+                            >
+                                <span class="d-flex align-items-start">
+                                    <span>Livraison express disponible</span>
+                                    <span class="sA-label ms-1 backgroundColorPink300 colorGrey900">
+                                        Express
+                                    </span>
+                                </span>
+                                <span class="extra-delay d-block">
+                                    Vous pouvez choisir un délai plus court lors du paiement
+                                </span>
+                            </label>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="serviceButtonbuy serviceButtonbuy-Grid pt-5 pt-lg-8">
+                <div>
+                    <button
+                            id="service_purchase"
+                            type="submit"
+                            class="btn-reset btn-base btn-buy js-button-purchase"
+                            data-delay-service="1"
+                            data-delay-total="1"
+                            data-delay-max="153"
+                                                            disabled="disabled"
+                                                    ><span class="btn-default__price"><span><span
+                                        data-cy="price"
+                                        class="js-price-placeholder price-placeholder-376726 fontVariantNumericTabularNums"
+                                        data-options-target="pricePlaceholder"
+                                    >
+                                        50,00 €
+                                    </span></span></span><span class="btn-default__label">Commander</span></button>                </div>
+                                                                                        <div class="btn-base btn-white btn-large opacity-50 cursorNotAllowed">
+                                Contacter le vendeur
+                            </div>
+                                                                            <div class="serviceButtonbuy__infos grid-column-fullCell text-center ms-0">
+                    Tous les prix sont H.T. + 0,30 € et 5 % de frais peuvent être imputés par nos partenaires
+                    bancaires en fonction de la TVA appliquée ainsi que du moyen de paiement utilisé.
+                </div>
+            </div>
+                        <input type="hidden" id="cart_service" name="cart[service]" class="form-control" value="376726" />            <input type="hidden" id="cart__token" name="cart[_token]" class="form-control" value="5afe9d12d59177676293f1.NfN6lxk9KBkXg7wbohEuq9tjl4u7xulyHGBnQx-Upu4.YbBM-3RrXkxf9NNSwWBpn6pb4-eWjNgxfzEIGU-myI1Rv0KgQE5dQEC25Q" />
+            </form>
+
+            </div>
+        
+        
+<div class="mainBlock p-4 p-lg-7">
+    <div class="reassurance-Grid reassurance-Service">
+            <div class="d-flex align-items-center justify-content-center">
+        <div class="reassuranceItem reassuranceItem--1">
+            <div class="d-flex align-items-center justify-content-center">
+                <div class="rI-number">
+                    1
+                </div>
+                <img loading="lazy" src="/built/frontend/images/icon-reassurance-1.svg" alt="" width="50" height="50" />
+            </div>
+            <p class="fontWeight600">
+                Commandez le <br />service de votre choix <br />à l’un de nos vendeurs
+
+            </p>
+        </div>
+    </div>
+
+            <div class="d-flex align-items-center justify-content-center">
+        <div class="reassuranceItem reassuranceItem--2">
+            <div class="d-flex align-items-center justify-content-center">
+                <div class="rI-number">
+                    2
+                </div>
+                <img loading="lazy" src="/built/frontend/images/icon-reassurance-2.svg" alt="" width="50" height="50" />
+            </div>
+            <p class="fontWeight600">
+                Échangez par chat sur le <br />site jusqu’à la livraison en toute sécurité
+
+            </p>
+        </div>
+    </div>
+
+            <div class="d-flex align-items-center justify-content-center">
+        <div class="reassuranceItem reassuranceItem--3">
+            <div class="d-flex align-items-center justify-content-center">
+                <div class="rI-number">
+                    3
+                </div>
+                <img loading="lazy" src="/built/frontend/images/icon-reassurance-3.svg" alt="" width="50" height="50" />
+            </div>
+            <p class="fontWeight600">
+                Le vendeur n’est payé que<br />
+lorsque vous validez la livraison
+
+            </p>
+        </div>
+    </div>
+
+    </div>
+</div>
+
+
+        
+
+    </section>
+        </div>
+
+        <div class="minWidth0">
+                <aside class="serviceSidebar grid-vertical js-service-sidebar">
+                        
+                <div class="buyBlockWrapper mainBlock pb-4 pb-lg-7 pt-4 pt-lg-7 js-toggle-offers-wrapper">
+            <p class="mb-0">
+            Vous ne pouvez pas acheter votre propre service.
+        </p>
+    </div>
+
+        
+        
+    
+<div
+    class="mainBlock minWidth0 pt-4 pt-lg-7 profil-White">
+    <div class="profilAvatar justify-content-center justify-content-lg-start">
+        <div class="position-relative">
+                <img
+        class="borderRadius50p overflow-hidden flex-shrink-0 widthHeight60px md:widthHeight42px me-3 me-lg-6"
+        src="https://thumbor.comeup.com/unsafe/60x60/filters:quality(90):no_upscale()/user/016b39bf-ad39-4c4a-af9d-e4e592c9d44c.jpg"
+        alt=""
+            />
+
+        </div>
+        <div class="minWidth0">
+            <div class="profilAvatar__ellipsis">
+                                                    <a
+                        class="fontSize16px colorInherit fontWeight600 flexTextOverflowEllipsis u-expand-element"
+                        href="/fr/@tossoujoseph022"
+                    >
+                        tossoujoseph022
+                    </a>
+                </div>
+            <div class="profil-Lastseen">
+                <div class="svgContainer svgContainer--16px">
+                    <svg aria-hidden="true" focusable="false" viewBox="0 0 14 14" fill="#999" width="14" height="14" xmlns="http://www.w3.org/2000/svg"><path d="M6.993.333A6.663 6.663 0 0 0 .333 7c0 3.68 2.98 6.667 6.66 6.667A6.67 6.67 0 0 0 13.667 7 6.67 6.67 0 0 0 6.993.333zm.007 12A5.332 5.332 0 0 1 1.667 7 5.332 5.332 0 0 1 7 1.667 5.332 5.332 0 0 1 12.333 7 5.332 5.332 0 0 1 7 12.333z"/><path d="M7.333 3.667h-1v4l3.5 2.1.5-.82-3-1.78z"/></svg>
+
+                </div>
+                <span>
+                    À l’instant
+                </span>
+            </div>
+        </div>
+    </div>                                                                                                                        <div class="paBio paBio--notEmpty">
+                                            <div class="bioWrapper has-doublequotes minWidth0">
+                            <p class="paBio__inner bio text-center js-toggle-fulltext lineClamp" data-lineclamp="5">
+                                “Je suis un professionnel polyvalent, fort de plus de 3 ans d&#039;expérience et spécialisé dans diverses stratégies de marketing digital telles que la planification de projet, le référencement (SEO) et la gestion de communauté. <br />
+<br />
+J&#039;ai également acquis d&#039;autres compétences qui me permettront de stimuler votre activité ou votre entreprise grâce au digital. <br />
+<br />
+Grâce à mon expertise, je peux vous aider à augmenter votre visibilité en ligne, à optimiser votre site web pour les moteurs de recherche, à gérer efficacement vos communautés en ligne et à mettre en place des stratégies marketing ciblées. <br />
+<br />
+Je suis passionné par le monde numérique et je suis prêt à mettre mes compétences au service de votre succès.”
+                            </p>
+                        </div>
+                                    </div>
+            <ul class="sellerStats">
+            <li>
+            <ul class="listStyleTypeNone ps-0 mb-0">
+                                                    <li class="sellerStat sellerStat--5eurosdirect">
+                        <img loading="lazy" src="/built/frontend/images/icon-phone.svg" alt="" width="16" height="16" />
+                        Disponible sur ComeUp Direct
+                    </li>
+                            </ul>
+        </li>
+            <li>
+        <ul class="listStyleTypeNone ps-0 mb-0">
+            <li class="sellerStat">
+                <img loading="lazy" src="/built/frontend/images/icon-forward.svg" alt="" width="16" height="16" />
+                Temps de réponse moy.
+                <strong>
+                    —
+                </strong>
+            </li>
+            <li class="sellerStat">
+                <img loading="lazy" src="/built/frontend/images/icon-person-check.svg" alt="" width="16" height="16" />
+                Taux de prise en charge
+                <strong>—</strong>
+            </li>
+            <li class="sellerStat">
+                <img loading="lazy" src="/built/frontend/images/icon-check-round.svg" alt="" width="16" height="16" />
+                Taux de complétion
+                <strong>—</strong>
+            </li>
+            <li class="sellerStat sellerStat--delais">
+                <img loading="lazy" src="/built/frontend/images/icon-clock-bold.svg" alt="" width="16" height="16" />
+                Respect des délais
+                <strong>—</strong>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <ul class="listStyleTypeNone ps-0 mb-0">
+            <li class="sellerStat">
+                <img loading="lazy" src="/built/frontend/images/icon-shopping_card.svg" alt="" width="16" height="16" />
+                Commande en cours
+                <strong>0</strong>
+            </li>
+            <li class="sellerStat">
+                <img loading="lazy" src="/built/frontend/images/fullcart.svg" alt="" width="16" height="16" />
+                Vente au total
+                <strong>0</strong>
+            </li>
+            <li class="sellerStat">
+                <img loading="lazy" src="/built/frontend/images/icon-account.svg" alt="" width="16" height="16" />
+                Vendeur depuis
+                <strong>Juin 2023</strong>
+            </li>
+        </ul>
+    </li>
+</ul>
+                                                <div class="sellerButtons mt-4 mt-lg-7">
+                                                                        <div class="btn-base btn-white opacity-50 cursorNotAllowed">
+                                Contacter
+                            </div>
+                                                                <a
+                        href="/fr/@tossoujoseph022"
+                        class="btn-base btn-white"
+                    >
+                        Voir le profil
+                    </a>
+                </div>
+            </div>
+
+        <div class="mainBlock pb-4 pb-lg-7 values">
+    <div class="mainBlock-Header gap-2 gap-lg-5" aria-hidden="true" focusable="false">
+        <div class="values__logo">
+            <svg fill="#000" viewBox="0 0 55 48" width="55" height="48" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M0 39.84h55V48H0zm31.565-24c0 8.748-7.066 15.84-15.782 15.84C7.066 31.68 0 24.588 0 15.84 0 7.092 7.066 0 15.783 0v8.16c-4.227 0-7.653 3.438-7.653 7.68 0 4.242 3.426 7.68 7.653 7.68 4.225 0 7.651-3.438 7.652-7.679l8.13-.001Z"/><path d="M39.217 0C47.934 0 55 7.092 55 15.84c0 8.748-7.066 15.84-15.783 15.84-8.716 0-15.782-7.092-15.782-15.84C23.435 7.092 30.5 0 39.217 0Zm0 8.16c-4.226 0-7.652 3.438-7.652 7.68 0 4.242 3.426 7.68 7.652 7.68 4.227 0 7.653-3.438 7.653-7.68 0-4.242-3.426-7.68-7.653-7.68Z"/></svg>
+
+        </div>
+        <img loading="lazy" src="/built/frontend/images/icon-list.svg" alt="" width="35" height="40" />
+    </div>
+    <h4 class="title-L mb-4 mb-lg-7 mt-0">
+        ComeUp s’engage auprès de ses membres
+    </h4>
+    <p class="mb-1 mb-lg-3">
+        😊 Des freelances qui <strong>choisissent eux-mêmes</strong> leur tarification.
+
+    </p>
+    <p class="mb-1 mb-lg-3">
+        🥳 La plateforme la <strong>plus rémunératrice</strong> du marché.
+
+    </p>
+    <p class="mb-0">
+        😌 Un prix transparent, connu à l’avance, <strong>sans surcoût</strong> à la fin.
+
+    </p>
+</div>
+
+
+            </aside>
+        </div>
+    </div>    
+        </div>
+</main>
+
+            <aside aria-labelledby="aria-title" class="flex-shrink-0">
+    <div
+        class="toastersWrapper js-panel-notifications"
+        data-cy="notifications-panel"
+        data-url-tags="/fr/notifications/tags"
+        data-url-counters="/fr/notifications/counters"
+        data-url-load="/fr/notifications/more" >
+        <button
+            type="button"
+            class="btn-reset toastersClose js-button-toggleToastersPanel"
+            data-cy="close-panelnotifications"
+            aria-label="Fermer le panel de notifications"
+        >
+            <img loading="lazy" src="/built/frontend/images/icon-close.svg" alt="" width="24" height="24" />
+        </button>
+        <h3 id="aria-title" class="title-L mb-0 text-center flex-shrink-0">
+            Notifications
+        </h3>
+
+        <div
+            class="nav nav-tabs toastersNav border-0 flex-shrink-0"
+            id="toaster-tabs"
+            role="tablist"
+        >
+            <button
+                class="btn-reset toastersNav-Item active"
+                id="toasters-link-all"
+                data-cy="button-tab-all"
+                data-bs-toggle="tab"
+                data-bs-target="#toasters-all"
+                role="tab"
+                aria-controls="toasters-all"
+                aria-selected="true"
+            >
+                Tout
+                <span
+                    class="toastersNav-Badge js-panel-badge-all"
+                    hidden
+                    data-cy="badge-all"
+                ></span>
+            </button>
+            <button
+                class="btn-reset toastersNav-Item"
+                id="toasters-link-messages"
+                data-cy="button-tab-messages"
+                data-bs-toggle="tab"
+                data-bs-target="#toasters-messages"
+                role="tab"
+                aria-controls="toasters-messages"
+                aria-selected="false"
+            >
+                Messages
+                <span
+                    class="toastersNav-Badge js-panel-badge-chat"
+                    hidden
+                    data-cy="badge-chat"
+                ></span>
+            </button>
+        </div>
+        <div
+            class="tab-content toastersContent minHeight0 h-100 d-flex align-items-start flex-column flex-grow-1"
+            id="list-tab-content"
+        >
+            <div
+                class="tab-pane active flex-grow-1 w-100 minHeight0 h-100"
+                id="toasters-all"
+                data-cy="panel-all"
+                role="tabpanel"
+                aria-labelledby="toasters-link-all"
+            >
+                    <div
+        class="js-panel-no-notification-all d-flex flex-column justify-content-center align-items-center h-100"
+        data-cy="nonotification-all"
+    >
+        <img loading="lazy" src="/built/frontend/images/illu-undraw_walking_outside_5ueb.svg" width="220" height="168" alt="" />
+        <p class="mt-5 mt-lg-8 mb-0 text-center fontWeight600">
+                            Vous n’avez pas de notification<br />
+pour l’instant
+
+                    </p>
+    </div>
+    <div
+        class="h-100 overflowYAuto flex-grow-1 u-customScroll"
+    >
+        <ul class="toasters js-toasters-panel-all"></ul>
+        <div
+            class="toastersFooter border-top-0 flex-shrink-0 js-viewmore-all"
+            data-panel-type="all"
+            hidden
+        >
+            <button
+                type="button"
+                class="btn-reset btn-base btn-white d-block w-100 js-loadMoreNotifications"
+                data-fetch-url="/fr/notifications/more"
+                data-type="all"
+                data-cy="view-more-all"
+            >
+                Voir la suite
+            </button>
+        </div>
+    </div>
+
+            </div>
+            <div
+                class="tab-pane flex-grow-1 w-100 minHeight0 h-100"
+                id="toasters-messages"
+                data-cy="panel-messages"
+                role="tabpanel"
+                aria-labelledby="toasters-link-messages"
+            >
+                    <div
+        class="js-panel-no-notification-chat d-flex flex-column justify-content-center align-items-center h-100"
+        data-cy="nonotification-chat"
+    >
+        <img loading="lazy" src="/built/frontend/images/illu-undraw_walking_outside_5ueb.svg" width="220" height="168" alt="" />
+        <p class="mt-5 mt-lg-8 mb-0 text-center fontWeight600">
+                            Vous n’avez pas de message<br />
+pour l’instant
+
+                    </p>
+    </div>
+    <div
+        class="h-100 overflowYAuto flex-grow-1 u-customScroll"
+    >
+        <ul class="toasters js-toasters-panel-chat"></ul>
+        <div
+            class="toastersFooter border-top-0 flex-shrink-0 js-viewmore-chat"
+            data-panel-type="chat"
+            hidden
+        >
+            <button
+                type="button"
+                class="btn-reset btn-base btn-white d-block w-100 js-loadMoreNotifications"
+                data-fetch-url="/fr/notifications/more"
+                data-type="chat"
+                data-cy="view-more-chat"
+            >
+                Voir la suite
+            </button>
+        </div>
+    </div>
+
+            </div>
+        </div>
+        <div class="toastersFooter flex-shrink-0 js-notification-blocked">
+            <p class="mb-0 text-center">
+                Veuillez désactiver votre bloqueur de publicités pour recevoir les notifications natives de votre navigateur.
+            </p>
+        </div>
+        <div class="toastersFooter flex-shrink-0 js-notification-error" hidden>
+            <p class="mb-0 text-center">
+                Nous n'avons pas pu activer les notifications sur ce navigateur.<br />
+Vérifiez que les notifications sont autorisées dans les paramètres de celui-ci, ou essayez depuis un autre navigateur.
+
+            </p>
+        </div>
+        <div class="toastersFooter flex-shrink-0 js-notification-wrapper" hidden>
+            <p class="mb-3 mb-lg-6 text-center">
+                Cliquez ci-dessous puis autorisez les notifications natives pour les recevoir directement sur votre navigateur.
+            </p>
+            <button type="button" class="btn-reset btn-base btn-grey-900 d-block w-100 js-notification-enable">
+                Autoriser les notifications
+            </button>
+        </div>
+    </div>
+    <div
+        class="js-close-panel toastersClosePanel"
+        data-cy="close-panel-overlay"
+    ></div>
+
+    <ul class="toasters toasters--floating js-toasters-floating"></ul>
+
+</aside>
+
+<script id="template-toaster" type="text/template">
+    <button
+        type="button"
+        class="toasterClose js-closeToaster btn-reset"
+    >
+        <span class="svgContainer svgContainer--18px">
+            <svg aria-hidden="true" focusable="false" fill="#E5E5E9" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><g fill="inherit" fill-rule="evenodd"><path fill="none" d="M0 0h18v18H0z"/><path d="M9 1.5A7.493 7.493 0 0 0 1.5 9c0 4.148 3.353 7.5 7.5 7.5 4.148 0 7.5-3.352 7.5-7.5 0-4.147-3.352-7.5-7.5-7.5z"/><path fill="#FFF" d="M12.75 11.693l-1.057 1.057L9 10.057 6.308 12.75 5.25 11.693 7.942 9 5.25 6.308 6.308 5.25 9 7.942l2.693-2.692 1.057 1.058L10.057 9z"/></g></svg>
+
+        </span>
+    </button>
+    <div class="toasterIcon svgContainer me-2 me-lg-5">
+        <svg aria-hidden="true" focusable="false" width="20" height="20">
+            <use href="/built/frontend/images/sprite.svg#%notification_type%"></use>
+        </svg>
+    </div>
+    <div>
+        <p class="mb-0 lineClamp" data-lineclamp="2">
+            <a
+                href="%url%"
+                class="u-expand-element"
+            >
+                <span class="toasterAuthor">
+                    <strong>%title%</strong> <span aria-hidden="true" focusable="false" class="badge">Officiel</span> -
+                    <span class="impersonated-user">%impersonated_user%</span><span> : </span>
+                    <strong><span class="extra-title">%extra_title%</span><span class="fontWeight400"> -</span></strong>
+                </span>
+                <span class="toasterContent">%content%</span>
+            </a>
+        </p>
+        <time class="fontSize12px">
+            %timestamp%
+        </time>
+    </div>
+</script>
+
+
+    
+    <footer role="contentinfo" class="flex-shrink-0">
+        <div class="mainFooter" data-cy="mainFooter">
+    <div class="container">
+        <div class="grid-footer">
+            <div>
+                <img loading="lazy" src="/built/frontend/images/icon-logo-full.svg" alt="" width="98" height="30" />
+                <button
+                    type="button"
+                    class="btn-reset mt-6 mx-auto mx-md-0 d-flex align-items-center gap-3 fontWeight500 link fontSize14px"
+                    data-bs-toggle="modal"
+                    data-bs-target="#changeLang"
+                >
+                    <img loading="lazy" src="/built/frontend/images/icon-public.svg" alt="" width="16" height="16" />
+                                            Français
+                                    </button>
+                <div>
+                    <button
+                        type="button"
+                        class="btn-reset mt-6 mx-auto mx-md-0 d-flex align-items-center gap-3 fontWeight500 link fontSize14px"
+                        data-bs-toggle="modal"
+                        data-bs-target="#selectCurrency"
+                    >
+                        <img loading="lazy" src="/built/frontend/images/icon-monetization.svg" alt="" width="16" height="16" />
+                        EUR (€)
+                    </button>
+
+                </div>
+            </div>
+            <div>
+                <p aria-level="1" role="heading" class="mainFooter-title">Statistiques</p>
+                <div class="stats gap-3 gap-lg-6 d-flex flex-column">
+                    <p class="stat mb-0">
+                        Commandes en cours :<br />
+                        <strong class="statItem">2 475</strong>
+                    </p>
+                    <p class="stat mb-0">
+                        Services livrés :<br />
+                        <strong class="statItem">947 631</strong>
+                    </p>
+                                        <p class="stat mb-0">
+                        Satisfaction des clients :<br />
+                        <span class="statItem statItem--note p-0 d-inline-flex backgroundColorYellow400">
+                            <span class="d-inline-flex gap-1 align-items-center p-2">
+                                
+                            <svg fill="#FE6" class="icon-star-full" xmlns="http://www.w3.org/2000/svg" width="15" height="14" aria-hidden="true" focusable="false"><path d="m14.757 6.095-3.044 2.897.719 4.09a.779.779 0 0 1-.32.768.819.819 0 0 1-.848.06L7.5 11.979l-3.763 1.93a.823.823 0 0 1-.848-.058.777.777 0 0 1-.32-.769l.72-4.09L.242 6.097A.773.773 0 0 1 .04 5.29a.8.8 0 0 1 .65-.534l4.207-.598L6.78.44A.805.805 0 0 1 7.499 0c.308 0 .586.17.722.438l1.883 3.721 4.208.597c.303.043.555.25.648.535a.771.771 0 0 1-.203.804Z"/></svg>
+
+                                <svg fill="#FE6" class="icon-star-full" xmlns="http://www.w3.org/2000/svg" width="15" height="14" aria-hidden="true" focusable="false"><path d="m14.757 6.095-3.044 2.897.719 4.09a.779.779 0 0 1-.32.768.819.819 0 0 1-.848.06L7.5 11.979l-3.763 1.93a.823.823 0 0 1-.848-.058.777.777 0 0 1-.32-.769l.72-4.09L.242 6.097A.773.773 0 0 1 .04 5.29a.8.8 0 0 1 .65-.534l4.207-.598L6.78.44A.805.805 0 0 1 7.499 0c.308 0 .586.17.722.438l1.883 3.721 4.208.597c.303.043.555.25.648.535a.771.771 0 0 1-.203.804Z"/></svg>
+
+                                <svg fill="#FE6" class="icon-star-full" xmlns="http://www.w3.org/2000/svg" width="15" height="14" aria-hidden="true" focusable="false"><path d="m14.757 6.095-3.044 2.897.719 4.09a.779.779 0 0 1-.32.768.819.819 0 0 1-.848.06L7.5 11.979l-3.763 1.93a.823.823 0 0 1-.848-.058.777.777 0 0 1-.32-.769l.72-4.09L.242 6.097A.773.773 0 0 1 .04 5.29a.8.8 0 0 1 .65-.534l4.207-.598L6.78.44A.805.805 0 0 1 7.499 0c.308 0 .586.17.722.438l1.883 3.721 4.208.597c.303.043.555.25.648.535a.771.771 0 0 1-.203.804Z"/></svg>
+
+                                <svg fill="#FE6" class="icon-star-full" xmlns="http://www.w3.org/2000/svg" width="15" height="14" aria-hidden="true" focusable="false"><path d="m14.757 6.095-3.044 2.897.719 4.09a.779.779 0 0 1-.32.768.819.819 0 0 1-.848.06L7.5 11.979l-3.763 1.93a.823.823 0 0 1-.848-.058.777.777 0 0 1-.32-.769l.72-4.09L.242 6.097A.773.773 0 0 1 .04 5.29a.8.8 0 0 1 .65-.534l4.207-.598L6.78.44A.805.805 0 0 1 7.499 0c.308 0 .586.17.722.438l1.883 3.721 4.208.597c.303.043.555.25.648.535a.771.771 0 0 1-.203.804Z"/></svg>
+
+                                <svg xmlns="http://www.w3.org/2000/svg" width="15" height="14" aria-hidden="true" focusable="false">
+    <path class="icon-star-half icon-star-half--right" fill="#DEDEE0" d="m14.757 6.095-3.044 2.897.719 4.09a.779.779 0 0 1-.32.768.819.819 0 0 1-.848.06L7.5 11.979l-3.763 1.93a.823.823 0 0 1-.848-.058.777.777 0 0 1-.32-.769l.72-4.09L.242 6.097A.773.773 0 0 1 .04 5.29a.8.8 0 0 1 .65-.534l4.207-.598L6.78.44A.805.805 0 0 1 7.499 0c.308 0 .586.17.722.438l1.883 3.721 4.208.597c.303.043.555.25.648.535a.771.771 0 0 1-.203.804Z"/>
+    <path class="icon-star-half icon-star-half--left" fill="#FE6" d="m7.5 11.979-3.763 1.93a.823.823 0 0 1-.848-.058.777.777 0 0 1-.32-.769l.72-4.09L.242 6.097A.773.773 0 0 1 .04 5.29a.8.8 0 0 1 .65-.534l4.207-.598L6.78.44c.135-.27.47-.439.72-.439v11.978Z"/>
+</svg>
+
+    
+                            </span>
+                            <span class="px-2 backgroundColorGrey75 d-inline-flex align-items-center">
+                                98,9 %
+                            </span>
+                        </span>
+                    </p>
+                </div>
+            </div>
+            <div>
+                <p aria-level="1" role="heading" class="mainFooter-title">À propos de ComeUp</p>
+                <ul class="mainFooter-links listStyleTypeNone d-flex flex-column ps-0 mb-0">
+                    <li>
+                        <a class="link fontSize14px" href="/fr/our-values">Nos valeurs</a>
+                    </li>
+                    <li>
+                        <a class="link fontSize14px" href="/fr/how-to">Comment ça marche ?</a>
+                    </li>
+                    <li>
+                        <a class="link fontSize14px" href="/fr/become-seller">Devenir vendeur</a>
+                    </li>
+                    <li>
+                        <a class="link fontSize14px" href="/fr/become-affiliate">Devenir affilié</a>
+                    </li>
+                    <li>
+                        <a class="link fontSize14px" href="/experts/">Blog</a>
+                    </li>
+                    <li>
+                        <a class="link fontSize14px" href="/fr/helpcenter">Centre d’aide et contact</a>
+                    </li>
+                    <li>
+                        <a class="link fontSize14px" href="/fr/press">Presse</a>
+                    </li>
+                    <li>
+                        <a class="link fontSize14px" href="//support-fr.comeup.com/" rel="noopener noreferrer" target="_blank">FAQ</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="mainFooter__bottom">
+            <div class="row">
+                <div class="col-md-5 order-md-3">
+                    <div class="socials d-flex justify-content-center justify-content-lg-end">
+                                                        <a
+        class="social"
+        rel="noopener noreferrer"
+        href="https://www.facebook.com/comeupdotcom"
+        target="_blank"
+        aria-label="Facebook"
+    >
+        <img loading="lazy" src="/built/frontend/images/icon-facebook.svg" alt="" width="32" height="32" />
+    </a>
+
+                                                                                <a
+        class="social"
+        rel="noopener noreferrer"
+        href="https://www.youtube.com/@bycomeup"
+        target="_blank"
+        aria-label="YouTube"
+    >
+        <img loading="lazy" src="/built/frontend/images/icon-youtube.svg" alt="" width="32" height="32" />
+    </a>
+
+                                                    <a
+        class="social"
+        rel="noopener noreferrer"
+        href="https://www.linkedin.com/company/27099046"
+        target="_blank"
+        aria-label="LinkedIn"
+    >
+        <img loading="lazy" src="/built/frontend/images/icon-linkedin.svg" alt="" width="32" height="32" />
+    </a>
+
+                            <a
+        class="social"
+        rel="noopener noreferrer"
+        href="https://twitter.com/bycomeup"
+        target="_blank"
+        aria-label="Twitter"
+    >
+        <img loading="lazy" src="/built/frontend/images/icon-twitter.svg" alt="" width="32" height="32" />
+    </a>
+
+                    </div>
+                    <p class="copyright text-lg-end mb-0">&copy; 2023 - <span class="text-uppercase">5euros SAS</span> - <a class="borderBottomColorGrey215" href="/fr/terms-of-use">Conditions générales</a></p>
+                </div>
+                <div class="col-md-5 order-md-1">
+                    <div class="paymentsWrapper">
+                        <div class="payments d-flex">
+                            <img height="30" width="48" loading="lazy" src="/built/frontend/images/icon-visa.svg" alt="" />
+                            <img height="30" width="48" loading="lazy" src="/built/frontend/images/icon-mastercard.svg" alt="" />
+                            <img height="30" width="48" loading="lazy" src="/built/frontend/images/icon-maestro.svg" alt="" />
+                            <img height="30" width="48" loading="lazy" src="/built/frontend/images/icon-paypal.svg" alt="" />
+                        </div>
+                        <p>Paiements sécurisés par PayPal et Braintree.</p>
+                    </div>
+                </div>
+                <div class="col-md-2 order-md-2 d-flex align-items-start justify-content-center">
+                    <img src="/built/frontend/images/icon-logo-mini.svg" alt="" width="55" height="48" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    
+<div
+    class="modal fade "
+    id="selectCurrency"
+    tabindex="-1"
+    aria-labelledby="selectCurrencyLabel"
+    aria-hidden="true"
+    >
+    <div
+        class="modal-dialog modal-dialog-centered modal-dialog-scrollable"style="--bs-modal-width: 388px">
+        <div class="modal-content p-4 p-lg-7">
+                            <button type="button" class="btn-reset btn-close m-0 p-0" data-bs-dismiss="modal" aria-label="Close">
+                    <img loading="lazy" src="/built/frontend/images/icon-close_modal.svg" alt="" width="14" height="14" />
+                </button>
+                                        <div class="modal-header d-block pb-4 pb-lg-7">
+                    <h1
+                        class="modal-title my-0 fontWeight700 title-XL text-center"
+                        id="selectCurrencyLabel"
+                    >
+                                    Choisissez votre monnaie
+                            </h1>
+                </div>
+                        <div class="modal-body ">
+                            <form
+                class="d-flex flex-column gap-3 gap-lg-6"
+                action="/fr/currency"
+                method="post"
+                data-controller="currency"
+                data-action="change->currency#onChangeForm"
+            >
+                                    <input
+                        checked
+                        type="radio"
+                        name="currency"
+                        value="USD"
+                        id="currency-USD"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-USD"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        USD ($US)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="EUR"
+                        id="currency-EUR"
+                        class="visually-hidden"
+                                                    checked
+                                            />
+                    <label
+                        for="currency-EUR"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        EUR (€)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="CAD"
+                        id="currency-CAD"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-CAD"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        CAD ($CA)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="GBP"
+                        id="currency-GBP"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-GBP"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        GBP (£GB)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="AUD"
+                        id="currency-AUD"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-AUD"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        AUD ($AU)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="NZD"
+                        id="currency-NZD"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-NZD"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        NZD ($NZ)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="CHF"
+                        id="currency-CHF"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-CHF"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        CHF (CHF)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="NOK"
+                        id="currency-NOK"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-NOK"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        NOK (NOK)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="DKK"
+                        id="currency-DKK"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-DKK"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        DKK (DKK)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="SEK"
+                        id="currency-SEK"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-SEK"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        SEK (SEK)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="INR"
+                        id="currency-INR"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-INR"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        INR (₹)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="DZD"
+                        id="currency-DZD"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-DZD"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        DZD (DZD)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="MAD"
+                        id="currency-MAD"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-MAD"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        MAD (MAD)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="XAF"
+                        id="currency-XAF"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-XAF"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        XAF (FCFA)
+                    </label>
+                                    <input
+                        
+                        type="radio"
+                        name="currency"
+                        value="XOF"
+                        id="currency-XOF"
+                        class="visually-hidden"
+                                            />
+                    <label
+                        for="currency-XOF"
+                        class="mb-0 btn-base btn-white btn-grey-900-checked d-block"
+                    >
+                        XOF (F CFA)
+                    </label>
+                            </form>
+                    </div>
+                    </div>
+    </div>
+</div>
+
+    
+<div
+    class="modal fade modal-sm"
+    id="changeLang"
+    tabindex="-1"
+    aria-labelledby="changeLangLabel"
+    aria-hidden="true"
+    >
+    <div
+        class="modal-dialog modal-dialog-centered">
+        <div class="modal-content p-4 p-lg-7">
+                            <button type="button" class="btn-reset btn-close m-0 p-0" data-bs-dismiss="modal" aria-label="Close">
+                    <img loading="lazy" src="/built/frontend/images/icon-close_modal.svg" alt="" width="14" height="14" />
+                </button>
+                                        <div class="modal-header d-block pb-4 pb-lg-7">
+                    <h1
+                        class="modal-title my-0 fontWeight700 title-XL text-center"
+                        id="changeLangLabel"
+                    >
+                                    Sélectionnez votre<br />
+langue
+
+                            </h1>
+                </div>
+                        <div class="modal-body d-flex flex-column gap-3 gap-lg-6">
+                            <a href="/language/english" class="btn-base btn-large btn-white">English</a>
+            <a href="/langue/francais" class="btn-base btn-large btn-grey-900">Français</a>
+                    </div>
+                    </div>
+    </div>
+</div>
+
+    </footer>
+
+<script src="/built/frontend/runtime.a2913f47.js" type="962b8bf8020b271acf3cc7c0-text/javascript"></script><script src="/built/frontend/tracking.25ec098d.js" type="962b8bf8020b271acf3cc7c0-text/javascript"></script>
+
+    <script src="/built/frontend/930.78a89f65.js" type="962b8bf8020b271acf3cc7c0-text/javascript"></script><script src="/built/frontend/901.d4f23882.js" type="962b8bf8020b271acf3cc7c0-text/javascript"></script><script src="/built/frontend/51.77b8d04a.js" type="962b8bf8020b271acf3cc7c0-text/javascript"></script><script src="/built/frontend/199.4da81d84.js" type="962b8bf8020b271acf3cc7c0-text/javascript"></script><script src="/built/frontend/866.52804c75.js" type="962b8bf8020b271acf3cc7c0-text/javascript"></script><script src="/built/frontend/microservice.2b278804.js" type="962b8bf8020b271acf3cc7c0-text/javascript"></script>
+
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" type="962b8bf8020b271acf3cc7c0-text/javascript"></script>
+    <script type="962b8bf8020b271acf3cc7c0-text/javascript">
+        var OneSignal = OneSignal || [];
+        OneSignal.push(["init", {
+            appId: "ba624535-d4e0-44c3-b3cc-291bca3babd8",
+            safari_web_id: "web.onesignal.auto.313afc18-65a3-4cb5-bd8a-eabd69c6e4d8",
+            autoRegister: false,
+            allowLocalhostAsSecureOrigin: true,
+            welcomeNotification: {
+                disable: true
+            },
+            promptOptions: {
+                slidedown: {
+                    enabled: true,
+                    autoPrompt: false,
+                },
+                actionMessage: "Pour recevoir les notifications, veuillez accepter le message suivant.",
+                acceptButtonText: "OK",
+                cancelButtonText: "Ignorer"
+            }
+        }]);
+
+        sessionStorage.setItem('onesignal/identifier', "8040b385-4ed2-574a-9705-fd65db7cb08b");
+
+        OneSignal.push(function () {
+            OneSignal.isPushNotificationsEnabled().then(function (isEnabled) {
+                if (isEnabled) {
+                    OneSignal.push(['sendTag', "user_id", "8040b385-4ed2-574a-9705-fd65db7cb08b"]);
+                }
+            });
+        });
+    </script>
+    
+    <script type="962b8bf8020b271acf3cc7c0-text/javascript">
+        ga('ec:addProduct', {
+            'id': '376726',
+            'name': 'créer un plan marketing digital pour votre entreprise',
+            'category': 'Stratégie marketing',
+            'brand': 'tossoujoseph022'
+        });
+        ga('ec:setAction', 'detail');
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Service',
+            eventAction: 'Show',
+            eventLabel: 'Avec option recommandée'
+        });
+    </script>
+<script type="962b8bf8020b271acf3cc7c0-text/javascript">
+    
+    ga('send', 'pageview');
+</script>
+    <script type="962b8bf8020b271acf3cc7c0-text/javascript">window.dataLayer = window.dataLayer || [];dataLayer.push({"event":"view_item","ecommerce":{"items":[{"item_id":"S376726","item_name":"cr\u00e9er un plan marketing digital pour votre entreprise","currency":"EUR","quantity":1,"price":"50.00","seller_id":"931553","item_category":"Strat\u00e9gie marketing"},{"item_id":"O1252254","item_name":"PACK STANDARD","currency":"EUR","quantity":1,"price":"50.00","seller_id":"931553","item_category":"Strat\u00e9gie marketing"},{"item_id":"O1252255","item_name":"PACK PRENIUM","currency":"EUR","quantity":1,"price":"100.00","seller_id":"931553","item_category":"Strat\u00e9gie marketing"}]}});</script>
+    <script id="cookieyes" type="962b8bf8020b271acf3cc7c0-text/javascript" src="https://cdn-cookieyes.com/client_data/aa3f6f58cab536bc1d6aa7e9/script.js"></script>
+
+    <script type="962b8bf8020b271acf3cc7c0-text/javascript">
+        const callOnline = function () {
+            var request = new XMLHttpRequest();
+            request.open('GET', "/fr/online", true);
+            request.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+
+            request.onload = function () {
+                if (request.status >= 200 && request.status < 400) {
+                }
+            };
+
+            request.send();
+        };
+        setInterval(callOnline, 60000);
+    </script>
+    <div
+        style="display: none"
+        data-notifications-hub="https://mercure.comeup.com/.well-known/mercure"
+        data-topic="https://comeup.com/notification/34559a2c-8ef9-3c99-ba39-89c1fec27179"
+    ></div>
+
+    <div
+        class="backdrop js-backdrop d-flex d-lg-none"
+        data-cy="backdrop"
+        aria-hidden="true"
+        focusable="false"
+    ></div>
+    <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="962b8bf8020b271acf3cc7c0-|49" defer></script></body>
+</html>
